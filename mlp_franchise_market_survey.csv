@@ -1,0 +1,1546 @@
+Respondent_ID,Age,Gender,Favorite_Pony,Fan_Segment,Annual_Spend_USD,Country
+RESP_0719,250,Prefer not to say,Derpy Hooves,General Public,29.79,United Kingdom
+RESP_1150,13,Female,Pinkie Pie,Casual Fan,14.97,UK
+RESP_1247,33,M,Big McIntosh,Casual Fan,67.62,Japan
+RESP_0446,28,Male,Sunset,General Public,37.74,Germany
+RESP_0416,19,NB,Spike,General Public,7.38,UK
+RESP_0514,19,Prefer not to say,Rainbox Dash,General Public,20.89,USA
+RESP_0563,9,Male,,Casual Fan,,Germany
+RESP_0936,7,Female,Sunset,Child/Parent Collection,126.7,USA
+RESP_0128,10,Female,Derpy Hooves,Child/Parent Collection,154.74,United Kingdom
+RESP_1477,11,Non-binary,Fluttershy,Child/Parent Collection,55.99,Germany
+RESP_0749,10,Prefer not to say,Discord,Child/Parent Collection,92.91,UK
+RESP_0044,22,Prefer not to say,,Brony,76.19,Australia
+RESP_0180,-5,Female,Rarity,General Public,19.78,United States
+RESP_0566,26,Female,Spike,Brony,307.54,United Kingdom
+RESP_0362,24,Non-binary,Princess Luna,Brony,175.57,Australia
+RESP_0644,23,Prefer not to say,,Casual Fan,19.06,Australia
+RESP_0368,18,Unknown,Spike,General Public,8.72,Germany
+RESP_1238,5,Unknown,Princess Luna,Casual Fan,12.68,United States
+RESP_0142,13,Non-binary,Princess Luna,Casual Fan,35.81,Australia
+RESP_1076,10,Male,Princess Celestia,Child/Parent Collection,94.99,USA
+RESP_1083,42,Male,Spike,Child/Parent Collection,34.35,UK
+RESP_0859,16,Non-binary,Sunset Shimmer,Brony,207.45,United Kingdom
+RESP_0926,22,Non-binary,Discord,Casual Fan,24.07,Japan
+RESP_0985,12,Male,Discord,General Public,36.85,Australia
+RESP_0952,24,Female,Fluttershy,Casual Fan,12.69,United Kingdom
+RESP_0846,250,Prefer not to say,Pinkie Pie,Brony,79.36,USA
+RESP_0973,24,Male,Spike,General Public,9.8,UK
+RESP_0968,20,M,Big McIntosh,Casual Fan,3.21,Canada
+RESP_0398,11,Non-binary,Spike,Casual Fan,16.09,Japan
+RESP_1211,25,Prefer not to say,Fluttershy,Brony,157.41,United States
+RESP_0489,14,Non-binary,Twilight Sparkle,General Public,25.67,Japan
+RESP_0908,7,NB,Starlight Glimmer,Child/Parent Collection,104.41,Japan
+RESP_0569,12,Prefer not to say,Sunset Shimmer,Child/Parent Collection,52.14,United Kingdom
+RESP_1314,23,Non-binary,Big McIntosh,Brony,169.56,United Kingdom
+RESP_0962,-5,Female,Trixie Lulamoon,General Public,20.79,United States
+RESP_1194,31,Female,Starlight Glimmer,Brony,365.42,USA
+RESP_0948,31,Prefer not to say,Derpy Hooves,Child/Parent Collection,60.45,Canada
+RESP_0264,12,Male,Applejack,Brony,98.68,Canada
+RESP_0770,24,Prefer not to say,Pinkie Pie,General Public,85.27,Australia
+RESP_0836,22,Prefer not to say,Big McIntosh,Brony,370.19,Japan
+RESP_0964,15,Non-binary,Sunset Shimmer,General Public,75.26,USA
+RESP_0242,19,Prefer not to say,Sunset Shimmer,Casual Fan,28.66,United States
+RESP_0096,34,Male,Trixie Lulamoon,Brony,395.56,United States
+RESP_0263,17,Female,Derpy Hooves,General Public,66.9,Canada
+RESP_0072,31,male,Princess Luna,Child/Parent Collection,155.08,United Kingdom
+RESP_0038,17,female,Discord,Casual Fan,58.67,USA
+RESP_0112,25,Female,Fluttershy,General Public,14.88,Canada
+RESP_0954,17,Non-binary,,General Public,15.37,Germany
+RESP_0603,28,Non-binary,Princess Celestia,General Public,21.41,United Kingdom
+RESP_1303,6,Non-binary,Sunset,Child/Parent Collection,72.16,UK
+RESP_1026,39,Non-binary,Trixie Lulamoon,Child/Parent Collection,52.92,USA
+RESP_0102,23,Male,,General Public,72.55,Japan
+RESP_1304,,Male,Discord,General Public,2.54,USA
+RESP_1146,25,Prefer not to say,Trixie Lulamoon,Brony,351.36,Japan
+RESP_0738,31,Male,Rainbow Dash,Brony,402.44,Canada
+RESP_0748,21,Male,Princess Luna,Casual Fan,69.5,United Kingdom
+RESP_0061,13,,Discord,Casual Fan,30.17,United States
+RESP_0453,44,Prefer not to say,Rainbow Dash,Child/Parent Collection,50.37,UK
+RESP_0814,37,Female,Starlight Glimmer,Child/Parent Collection,106.04,United Kingdom
+RESP_1139,31,Non-binary,Rainbow Dash,General Public,9.29,Germany
+RESP_0983,21,Male,Spike,Casual Fan,28.33,UK
+RESP_0211,30,Non-binary,Twilight,Child/Parent Collection,93.41,USA
+RESP_0287,12,Female,pinkie pie,Casual Fan,87.42,Canada
+RESP_0452,9,Male,Spike,Casual Fan,28.43,Germany
+RESP_0507,25,Male,Flutershy,General Public,9.14,Germany
+RESP_0542,33,Prefer not to say,Fluttershy,Child/Parent Collection,36.7,United States
+RESP_0309,16,Male,Princess Celestia,Casual Fan,39.37,Japan
+RESP_0998,38,Non-binary,Princess Celestia,Child/Parent Collection,73.7,Japan
+RESP_0117,31,Female,Discord,Casual Fan,44.28,Germany
+RESP_1184,,Female,Trixie Lulamoon,Casual Fan,62.37,Germany
+RESP_0782,0,Prefer not to say,fluttershy,Child/Parent Collection,90.91,United Kingdom
+RESP_1038,31,Male,Princess Celestia,Child/Parent Collection,41.92,United States
+RESP_0286,20,Non-binary,Fluttershy,Casual Fan,28.99,UK
+RESP_1282,28,,Flutershy,Brony,294.22,Canada
+RESP_0889,36,Non-binary,Fluttershy,Child/Parent Collection,68.29,UK
+RESP_0681,32,Non-binary,Discord,Brony,66.56,United Kingdom
+RESP_0410,14,Prefer not to say,Fluttershy,General Public,15.79,UK
+RESP_1166,17,Prefer not to say,Starlight Glimmer,Casual Fan,37.4,USA
+RESP_1230,26,Prefer not to say,Derpy Hooves,General Public,19.42,UK
+RESP_1455,,Non-binary,Muffin Pony,Casual Fan,49.85,United States
+RESP_0205,18,Non-binary,Princess Luna,General Public,11.22,USA
+RESP_0831,15,NB,Derpy Hooves,Brony,285.79,United Kingdom
+RESP_0433,5,Male,Pinkie Pie,Child/Parent Collection,115.9,Japan
+RESP_1003,23,Female,Spike,Brony,182.11,Germany
+RESP_1268,21,Non-binary,Applejack,General Public,39.73,UK
+RESP_1099,30,Prefer not to say,Rarity,Child/Parent Collection,76.39,Germany
+RESP_0314,27,NB,Spike,General Public,16.28,Germany
+RESP_0064,34,Female,Discord,Child/Parent Collection,49.86,United States
+RESP_0345,24,Prefer not to say,fluttershy,General Public,18.67,Canada
+RESP_1475,23,Non-binary,Derpy Hooves,General Public,18.06,United States
+RESP_0059,11,Female,Trixie Lulamoon,Child/Parent Collection,93.42,
+RESP_1039,31,Prefer not to say,Rarity,Casual Fan,32.4,Australia
+RESP_0792,29,Non-binary,Rainbow Dash,Brony,106.52,United States
+RESP_0141,22,Non-binary,rarity,Brony,215.96,Germany
+RESP_0431,30,Non-binary,Derpy,Child/Parent Collection,232.12,United Kingdom
+RESP_0504,27,M,Spike,General Public,9.47,United States
+RESP_0810,16,Female,Starlight Glimmer,Casual Fan,25.33,Japan
+RESP_1494,11,Female,Rarityy,General Public,24.13,UK
+RESP_0207,25,Prefer not to say,Fluttershy,Brony,114.3,Canada
+RESP_1320,,F,Princess Celestia,Brony,275.58,USA
+RESP_0906,15,Non-binary,Twilight Sparkle,General Public,19.73,United Kingdom
+RESP_1404,7,Female,Fluttershy,General Public,14.64,USA
+RESP_1239,4,Prefer not to say,Trixie Lulamoon,Child/Parent Collection,63.11,Japan
+RESP_0811,8,Male,Derpy Hooves,General Public,6.38,Germany
+RESP_0512,9,F,Applejack,Child/Parent Collection,48.39,Japan
+RESP_0784,18,male,Rarity,Casual Fan,13.62,
+RESP_1341,20,Male,Pinkie Pie,General Public,74.31,Australia
+RESP_0865,19,Female,Princess Luna,Casual Fan,16.71,Australia
+RESP_0526,31,Non-binary,Rainbow Dash,General Public,15.6,United Kingdom
+RESP_0028,17,Non-binary,Trixie Lulamoon,Brony,180.19,USA
+RESP_0118,26,Female,Princess Luna,Brony,238.52,Germany
+RESP_0010,7,Male,Spike,Child/Parent Collection,86.14,Canada
+RESP_1476,10,F,Princess Celestia,General Public,33.66,United Kingdom
+RESP_1459,21,Female,Starlight Glimmer,Brony,58.62,United States
+RESP_0657,31,Non-binary,Big McIntosh,Child/Parent Collection,57.98,UK
+RESP_1106,12,Male,Flutershy,Casual Fan,33.62,Germany
+RESP_1330,36,male,Twilight Sparkle,Child/Parent Collection,146.99,USA
+RESP_0417,4,Non-binary,Discord,Child/Parent Collection,151.41,Japan
+RESP_0955,21,male,Sunset Shimmer,General Public,33.76,USA
+RESP_0717,23,Non-binary,Spike,Brony,227.52,Germany
+RESP_1021,24,Prefer not to say,Applejack,General Public,31.19,Japan
+RESP_1142,10,Male,Big McIntosh,Casual Fan,31.82,UK
+RESP_1415,27,Male,Discord,Brony,138.39,USA
+RESP_0838,16,Prefer not to say,Princess Luna,Brony,138.31,Australia
+RESP_0397,36,F,Twilight Sparkle,Child/Parent Collection,241.63,USA
+RESP_0923,36,Unknown,Big McIntosh,Child/Parent Collection,107.19,Japan
+RESP_0829,12,Female,Discord,Child/Parent Collection,138.31,UK
+RESP_0547,14,Male,Princess Luna,Casual Fan,20.82,Germany
+RESP_0468,21,Prefer not to say,Rarity,Casual Fan,10.89,United Kingdom
+RESP_0173,31,Female,Fluttershy,Child/Parent Collection,67.51,Canada
+RESP_0636,8,Prefer not to say,Twiligh Sparkle,Child/Parent Collection,79.74,Australia
+RESP_0018,11,Non-binary,Pinkie Pie,Casual Fan,5.17,United Kingdom
+RESP_0531,38,Prefer not to say,Spike,Casual Fan,6.77,Germany
+RESP_0756,28,Prefer not to say,Princess Luna,Brony,,Australia
+RESP_0147,12,Male,Apple Jack,Child/Parent Collection,174.23,United Kingdom
+RESP_0201,41,Male,Rarity,Child/Parent Collection,86.4,
+RESP_0253,17,Non-binary,Big McIntosh,General Public,20.54,Japan
+RESP_0119,14,Prefer not to say,Pinkie Pie,Casual Fan,24.6,USA
+RESP_1082,6,Female,Sunset Shimmer,General Public,17.07,Germany
+RESP_0653,13,NB,,General Public,38.42,Canada
+RESP_1096,31,Male,Spike,Child/Parent Collection,61.38,Canada
+RESP_1337,,F,Twilight Sparkle,General Public,16.84,Japan
+RESP_0452,9,Male,Spike,Casual Fan,28.43,Germany
+RESP_0518,17,Male,Applejack,Casual Fan,10.29,Canada
+RESP_0876,18,Non-binary,Twilight Sparkle,General Public,47.43,Germany
+RESP_0703,21,,Princess Luna,Brony,187.26,UK
+RESP_0557,27,,Rainbow Dash,Casual Fan,65.11,UK
+RESP_0755,38,Male,Pinkie Pie,Child/Parent Collection,66.79,United Kingdom
+RESP_1453,24,Prefer not to say,Princess Luna,Brony,114.43,USA
+RESP_0250,16,Non-binary,Trixie Lulamoon,General Public,45.4,Germany
+RESP_0024,,Non-binary,Starlight Glimmer,Brony,137.81,UK
+RESP_1204,23,,Applejack,General Public,8.67,Australia
+RESP_0761,16,M,Applejack,Casual Fan,14.2,United States
+RESP_1117,17,Female,Spike,Casual Fan,10.9,Canada
+RESP_0168,23,Female,Rarity,Brony,305.1,USA
+RESP_1380,11,Prefer not to say,Fluttershy,Child/Parent Collection,145.02,United States
+RESP_0370,,Prefer not to say,Princess Luna,General Public,21.21,Australia
+RESP_1153,22,Female,Starlight Glimmer,Brony,68.07,UK
+RESP_0758,43,Prefer not to say,Princess Celestia,Child/Parent Collection,292.05,USA
+RESP_0675,7,Male,Princess Luna,Child/Parent Collection,,United Kingdom
+RESP_0880,25,Prefer not to say,Pinkie Pie,Brony,39.95,United Kingdom
+RESP_0736,29,Male,Trixie Lulamoon,Brony,173.95,United Kingdom
+RESP_0661,,Male,,Casual Fan,5.62,Germany
+RESP_1222,13,Male,Starlight Glimmer,Brony,138.76,Germany
+RESP_1431,27,Female,Discord,Brony,130.45,United Kingdom
+RESP_0669,43,Female,Rainbow Dash,Child/Parent Collection,89.12,Canada
+RESP_0739,16,Male,Spike,General Public,16.9,USA
+RESP_1138,24,Female,Rainbow,Casual Fan,46.09,United States
+RESP_0014,5,Male,Trixie Lulamoon,Child/Parent Collection,33.86,Germany
+RESP_0109,16,NB,Sunset Shimmer,General Public,54.97,
+RESP_0375,6,M,Derpy Hooves,Child/Parent Collection,113.61,UK
+RESP_1261,19,Female,Princess Luna,Brony,403.91,Japan
+RESP_0279,14,Non-binary,Derpy Hooves,Brony,96.45,Germany
+RESP_1301,21,Non-binary,Rainbow,General Public,10.43,UK
+RESP_0035,27,NB,Trixie Lulamoon,General Public,31.92,Japan
+RESP_0857,20,Female,Pinkie Pie,Casual Fan,23.39,Australia
+RESP_0099,24,Female,Discord,Casual Fan,45.79,United States
+RESP_1479,10,Non-binary,applejack,Casual Fan,35.68,USA
+RESP_0666,26,Female,Starlight Glimmer,General Public,6.94,Germany
+RESP_1064,43,Non-binary,Derpy Hooves,Child/Parent Collection,194.2,United Kingdom
+RESP_0922,18,Prefer not to say,Derpy Hooves,Casual Fan,28.23,USA
+RESP_1420,20,Non-binary,Pinkie Pie,Casual Fan,22.2,United Kingdom
+RESP_0961,38,Non-binary,Spike,Casual Fan,44.2,Japan
+RESP_0702,15,Non-binary,Muffin Pony,Brony,260.35,Japan
+RESP_0921,6,Female,,Casual Fan,17.53,Canada
+RESP_1375,25,Female,,Casual Fan,27.46,Australia
+RESP_0187,15,Male,Trixie Lulamoon,General Public,16.07,Japan
+RESP_0451,32,,Applejack,General Public,14.56,Germany
+RESP_1254,17,Prefer not to say,Twilight Sparkle,Casual Fan,9.47,Canada
+RESP_0025,22,Female,Princess Celestia,General Public,49.05,Canada
+RESP_0111,20,Female,Big McIntosh,General Public,27.26,Germany
+RESP_0016,0,Male,Discord,Child/Parent Collection,90.04,Australia
+RESP_0709,28,Female,Twilight Sparkle,Casual Fan,,United Kingdom
+RESP_1103,11,Female,Fluttershy,Child/Parent Collection,214.24,Australia
+RESP_0757,16,Female,Princess Luna,Casual Fan,7.54,Japan
+RESP_0260,22,Non-binary,Derpy Hooves,Brony,200.39,Canada
+RESP_0148,6,Male,Applejack,Child/Parent Collection,136.8,USA
+RESP_1401,25,Female,Spike,Brony,364.9,Canada
+RESP_0884,28,Prefer not to say,Sunset Shimmer,Brony,146.4,
+RESP_1370,17,Male,Fluttershy,Brony,249.38,Canada
+RESP_0871,25,Female,Rarity,General Public,5.56,Germany
+RESP_0929,14,male,Derpy Hooves,General Public,74.55,United States
+RESP_0769,29,Male,Rarity,Casual Fan,21.25,Australia
+RESP_0186,12,Non-binary,Princess Celestia,Child/Parent Collection,129.38,Canada
+RESP_0276,14,Prefer not to say,Princess Celestia,Brony,384.44,Germany
+RESP_0519,11,Male,,Child/Parent Collection,82.81,Canada
+RESP_0670,25,Male,Starlight Glimmer,General Public,53.23,United Kingdom
+RESP_0902,25,NB,Pinky Pie,Casual Fan,15.67,Japan
+RESP_0100,17,Male,Pinkie Pie,General Public,19.34,Japan
+RESP_0005,21,Prefer not to say,Rarity,Casual Fan,3.24,Japan
+RESP_1392,29,Male,Applejack,Casual Fan,39.8,Japan
+RESP_0047,11,Prefer not to say,Spike,Child/Parent Collection,78.31,United States
+RESP_0565,29,Prefer not to say,Trixie Lulamoon,General Public,22.38,UK
+RESP_0934,5,NB,Trixie Lulamoon,Child/Parent Collection,89.45,United Kingdom
+RESP_0194,17,Male,Starlight,Brony,135.64,UK
+RESP_1379,999,Female,Princess Celestia,Casual Fan,29.7,Australia
+RESP_0466,18,Non-binary,Princess Celestia,General Public,22.04,Germany
+RESP_0701,18,Prefer not to say,Pinkie Pie,Casual Fan,2.53,United States
+RESP_0511,24,Male,Princess Celestia,General Public,21.76,Germany
+RESP_0190,27,NB,Princess Celestia,Brony,113.65,Japan
+RESP_1354,19,Male,Fluttershy,Casual Fan,11.34,Australia
+RESP_0027,26,Male,fluttershy,Casual Fan,61.53,UK
+RESP_0881,21,Prefer not to say,Spike,Casual Fan,16.83,Canada
+RESP_0778,4,Female,Princess Luna,Child/Parent Collection,,USA
+RESP_1017,23,Prefer not to say,Rarity,General Public,65.12,Canada
+RESP_1200,26,Male,Rarity,General Public,67.03,UK
+RESP_0455,19,Female,Applejack,Brony,43.28,Japan
+RESP_1338,16,Prefer not to say,Sunset Shimmer,Brony,212.5,Germany
+RESP_0801,16,Female,Big McIntosh,Brony,124.45,UK
+RESP_0288,25,Male,Derpy Hooves,Casual Fan,30.29,UK
+RESP_1070,34,Non-binary,Discord,Child/Parent Collection,87.63,United Kingdom
+RESP_1115,23,Non-binary,Trixie Lulamoon,General Public,14.58,Canada
+RESP_1316,19,Female,Spike,Casual Fan,13.03,UK
+RESP_0341,27,Prefer not to say,Apple Jack,General Public,10.74,USA
+RESP_0114,24,Male,Applejack,General Public,16.71,Germany
+RESP_0229,8,Male,Discord,General Public,54.33,Germany
+RESP_0312,11,Male,Applejack,Casual Fan,51.44,Japan
+RESP_0052,,Prefer not to say,Pinkie Pie,Child/Parent Collection,55.34,United Kingdom
+RESP_1383,4,Non-binary,Rarity,Child/Parent Collection,127.71,USA
+RESP_0499,5,Male,Discord,Child/Parent Collection,56.59,Japan
+RESP_0573,5,Non-binary,Big McIntosh,Casual Fan,31.92,Germany
+RESP_1437,7,Non-binary,Princess Celestia,General Public,76.34,Canada
+RESP_0325,30,,applejack,Brony,120.96,United Kingdom
+RESP_0790,20,Male,rarity,General Public,49.91,USA
+RESP_1216,,Non-binary,Starlight Glimmer,General Public,32.28,Japan
+RESP_0996,21,Female,Pinkie Pie,Brony,126.42,Australia
+RESP_1250,26,NB,Spike,Brony,94.46,United States
+RESP_1071,26,Non-binary,Spike,Casual Fan,17.02,Canada
+RESP_1028,27,Prefer not to say,Pinky Pie,Brony,173.45,United Kingdom
+RESP_0379,26,Non-binary,Princess Luna,General Public,14.37,Canada
+RESP_0949,14,Male,Princess Luna,Brony,188.04,Japan
+RESP_0759,7,Non-binary,Princess Celestia,Casual Fan,30.51,United Kingdom
+RESP_0415,38,female,Derpy,Child/Parent Collection,99.77,Germany
+RESP_0165,33,NB,Princess Celestia,Child/Parent Collection,25.92,Germany
+RESP_1050,9,Male,Rainbow Dash,General Public,60.78,USA
+RESP_1318,30,Female,Princess Luna,Brony,182.73,Australia
+RESP_0208,36,Non-binary,Trixie Lulamoon,General Public,71.31,Canada
+RESP_0285,7,Female,Sunset Shimmer,Child/Parent Collection,32.02,United States
+RESP_0699,33,Prefer not to say,Rainbow Dash,Casual Fan,23.01,USA
+RESP_0295,9,female,Trixie Lulamoon,General Public,37.84,United Kingdom
+RESP_0610,19,Prefer not to say,Starlight,Casual Fan,21.26,United States
+RESP_0021,21,Male,Spike,Casual Fan,14.05,Germany
+RESP_1011,15,Male,Spike,General Public,1.99,United States
+RESP_0766,33,Female,Big McIntosh,Child/Parent Collection,10.37,United States
+RESP_0427,25,Non-binary,Discord,Casual Fan,23.47,USA
+RESP_0411,14,Non-binary,Sunset Shimmer,General Public,31.81,Australia
+RESP_0863,9,Prefer not to say,Sunset Shimmer,Child/Parent Collection,113.42,USA
+RESP_1276,14,,Discord,General Public,19.83,Japan
+RESP_0937,10,Male,Princess Celestia,General Public,5.22,Australia
+RESP_0351,32,Non-binary,Sunset Shimmer,Child/Parent Collection,106.78,UK
+RESP_1267,13,Prefer not to say,Discord,Brony,254.85,Canada
+RESP_1035,5,Female,Twilight Sparkle,Child/Parent Collection,119.5,Japan
+RESP_0741,25,Male,Twilight Sparkle,Brony,179.13,Japan
+RESP_1446,22,Prefer not to say,Rainbow Dash,Casual Fan,28.4,United Kingdom
+RESP_0331,30,male,Derpy Hooves,Child/Parent Collection,106.63,Germany
+RESP_1057,24,Male,Sunset Shimmer,Brony,57.65,United States
+RESP_0621,18,Prefer not to say,Derpy Hooves,Brony,289.12,USA
+RESP_0129,17,Non-binary,Big McIntosh,Brony,245.96,United States
+RESP_0493,29,Male,Rarity,Casual Fan,41.02,
+RESP_0408,15,Prefer not to say,Big McIntosh,General Public,65.88,USA
+RESP_0907,19,Male,Rainbow,General Public,23.85,Canada
+RESP_0919,9,F,Rarity,General Public,56.77,USA
+RESP_1496,31,Prefer not to say,Spike,Brony,354.56,USA
+RESP_1335,4,Male,Fluttershy,Child/Parent Collection,119.13,Germany
+RESP_0152,11,Prefer not to say,Trixie Lulamoon,Child/Parent Collection,54.08,United States
+RESP_0326,26,Prefer not to say,Rainbox Dash,Casual Fan,6.96,Canada
+RESP_1006,,Non-binary,Trixie Lulamoon,Casual Fan,20.03,UK
+RESP_0743,44,Female,Princess Luna,Child/Parent Collection,63.84,USA
+RESP_1048,5,Female,Big McIntosh,Child/Parent Collection,155.49,UK
+RESP_1023,30,F,Pinkie Pie,Brony,203.63,United States
+RESP_0965,7,Prefer not to say,Princess Luna,Child/Parent Collection,109.38,Australia
+RESP_0327,12,Non-binary,Rainbow Dash,Casual Fan,3.14,USA
+RESP_1385,36,male,Trixie Lulamoon,General Public,60.66,Australia
+RESP_1336,10,,Discord,Casual Fan,8.07,USA
+RESP_0352,21,Male,Big McIntosh,Brony,186.96,Japan
+RESP_0659,24,Female,,Casual Fan,15.57,United States
+RESP_1483,11,Non-binary,Derpy Hooves,General Public,,Japan
+RESP_0587,34,Non-binary,Discord,Child/Parent Collection,159.16,USA
+RESP_0688,20,Male,Princess Celestia,Casual Fan,54.92,USA
+RESP_0472,29,Non-binary,Starlight Glimmer,Brony,221.85,USA
+RESP_1158,14,Non-binary,Trixie Lulamoon,Brony,115.39,UK
+RESP_1090,22,Non-binary,Pinkie Pie,Casual Fan,8.54,United States
+RESP_0347,26,Non-binary,Fluttershy,Casual Fan,36.17,United States
+RESP_0742,21,Non-binary,Princess Celestia,Brony,70.16,United Kingdom
+RESP_0056,17,Prefer not to say,Rainbow Dash,Casual Fan,18.71,United Kingdom
+RESP_0329,21,Female,Big McIntosh,Brony,465.83,Japan
+RESP_0413,18,Non-binary,Spike,Casual Fan,51.73,Canada
+RESP_0649,22,Female,Rarity,Casual Fan,24.14,UK
+RESP_0364,35,Male,Spike,Casual Fan,7.95,Australia
+RESP_0359,8,Non-binary,Princess Celestia,Child/Parent Collection,144.97,Japan
+RESP_0077,18,Female,Big McIntosh,General Public,41.53,Japan
+RESP_0171,27,Prefer not to say,Fluttershy,Brony,293.87,Germany
+RESP_1266,,Non-binary,Applejack,Casual Fan,,Japan
+RESP_1322,21,Female,,General Public,35.32,United Kingdom
+RESP_1382,4,Prefer not to say,fluttershy,Child/Parent Collection,87.28,United States
+RESP_0695,29,Female,Starlight Glimmer,Brony,112.02,Japan
+RESP_0265,9,Male,Derpy Hooves,Child/Parent Collection,64.36,Germany
+RESP_0888,25,Female,Applejack,General Public,8.7,
+RESP_0298,15,Prefer not to say,Sunset Shimmer,General Public,27.44,UK
+RESP_0684,41,F,Fluttershy,Child/Parent Collection,136.17,Canada
+RESP_0505,33,Male,Big McIntosh,Child/Parent Collection,43.85,United States
+RESP_0485,19,Female,Sunset,Casual Fan,12.44,USA
+RESP_1180,4,Prefer not to say,,Child/Parent Collection,88.64,USA
+RESP_0889,36,Non-binary,Fluttershy,Child/Parent Collection,68.29,UK
+RESP_1461,11,Prefer not to say,Twilight Sparkle,General Public,35.11,USA
+RESP_0730,24,male,Applejack,Brony,69.46,Germany
+RESP_0783,25,Prefer not to say,Twilight Sparkle,Casual Fan,47.91,United Kingdom
+RESP_0873,4,Female,Pinkie Pie,Child/Parent Collection,118.55,Canada
+RESP_1081,16,Male,Fluttershy,Casual Fan,,United States
+RESP_1296,25,Male,,Casual Fan,20.59,UK
+RESP_0214,22,Non-binary,Spike,Brony,153.63,Japan
+RESP_1358,15,Prefer not to say,Rainbow Dash,Casual Fan,15.73,United States
+RESP_1283,19,Female,Princess Luna,General Public,52.39,United States
+RESP_0260,22,Non-binary,Derpy Hooves,Brony,200.39,Canada
+RESP_0899,38,Female,Big McIntosh,Brony,296.63,Germany
+RESP_0355,9,Male,Sunset Shimmer,Child/Parent Collection,30.41,Australia
+RESP_0716,7,Male,Spike,Child/Parent Collection,83.82,United States
+RESP_0200,32,Female,Fluttershy,Brony,189.07,USA
+RESP_0852,16,Non-binary,Spike,Casual Fan,38.22,United Kingdom
+RESP_1302,7,Non-binary,Rainbow Dash,Child/Parent Collection,54.29,United States
+RESP_0371,9,Male,Spike,Casual Fan,64.68,UK
+RESP_1065,35,Prefer not to say,Spike,Casual Fan,16.06,Canada
+RESP_0349,11,Prefer not to say,Fluttershy,Child/Parent Collection,,Japan
+RESP_0217,3,Male,Pinkie Pie,Casual Fan,12.53,Australia
+RESP_0674,30,Female,Spike,Child/Parent Collection,56.54,Japan
+RESP_0254,17,Prefer not to say,Princess Celestia,General Public,44.04,United States
+RESP_0153,19,Male,Pinkie Pie,Brony,199.97,Canada
+RESP_0195,31,Prefer not to say,Spike,Brony,,Canada
+RESP_1029,10,M,Starlight Glimmer,Child/Parent Collection,43.26,Japan
+RESP_1251,24,Male,Trixie Lulamoon,Brony,113.66,Germany
+RESP_1366,11,Non-binary,Princess Luna,General Public,8.4,Australia
+RESP_0069,44,Female,Rainbow Dash,Child/Parent Collection,135.49,United States
+RESP_0131,5,Prefer not to say,Big McIntosh,Child/Parent Collection,79.57,Japan
+RESP_1016,43,,Rarity,Child/Parent Collection,117.41,UK
+RESP_1241,31,Male,Derpy Hooves,Child/Parent Collection,91.39,USA
+RESP_0301,31,Prefer not to say,Applejack,Brony,81.81,Canada
+RESP_0678,4,Male,Big McIntosh,Child/Parent Collection,96.56,Japan
+RESP_1287,25,Non-binary,Trixie Lulamoon,Brony,505.87,United States
+RESP_1486,12,Male,Fluttershy,Child/Parent Collection,50.02,Japan
+RESP_0384,34,Female,Fluttershy,Child/Parent Collection,77.69,United Kingdom
+RESP_1388,19,Non-binary,Fluttershy,Brony,81.56,Australia
+RESP_0241,7,Male,Applejack,Child/Parent Collection,116.53,USA
+RESP_0598,25,Prefer not to say,Princess Celestia,Brony,313.3,UK
+RESP_1078,34,Male,Pinkie Pie,Child/Parent Collection,70.76,USA
+RESP_0946,22,Male,,Brony,172.0,Germany
+RESP_0188,42,Non-binary,Big McIntosh,Child/Parent Collection,54.98,United Kingdom
+RESP_0805,44,,Fluttershy,Child/Parent Collection,171.9,Australia
+RESP_1213,13,Female,Princess Luna,Brony,325.32,Germany
+RESP_1073,22,Non-binary,Spike,Brony,105.02,Japan
+RESP_1089,18,Prefer not to say,Twilight Sparkle,Casual Fan,18.66,United Kingdom
+RESP_1022,23,Non-binary,,Casual Fan,37.02,UK
+RESP_0303,8,Female,Applejack,Child/Parent Collection,137.73,Germany
+RESP_0284,23,Prefer not to say,Big McIntosh,Brony,171.22,Canada
+RESP_0532,21,Prefer not to say,Muffin Pony,Brony,,Japan
+RESP_0643,28,,Rainbow,Casual Fan,20.2,USA
+RESP_1134,16,Female,Pinkie Pie,Brony,194.71,UK
+RESP_0541,40,Male,Sunset Shimmer,Child/Parent Collection,150.03,Japan
+RESP_0572,28,Female,Spike,General Public,37.63,United Kingdom
+RESP_0110,20,Female,Rarity,General Public,21.28,Germany
+RESP_1490,17,Non-binary,Princess Luna,Casual Fan,43.94,United Kingdom
+RESP_0123,20,Female,Spike,Brony,323.72,USA
+RESP_0464,7,Male,Starlight,Child/Parent Collection,179.5,Canada
+RESP_0281,27,Female,Fluttershy,General Public,24.41,UK
+RESP_0714,12,,Pinkie Pie,General Public,11.44,Japan
+RESP_0424,9,Female,Princess Luna,Child/Parent Collection,102.97,United Kingdom
+RESP_0429,44,M,Big McIntosh,Child/Parent Collection,133.81,Japan
+RESP_0772,23,Non-binary,Princess Luna,Casual Fan,54.39,USA
+RESP_0594,14,Prefer not to say,Princess Luna,Casual Fan,26.75,United States
+RESP_0393,27,Prefer not to say,Pinky Pie,Brony,247.11,Canada
+RESP_0475,4,Female,Princess Celestia,Child/Parent Collection,33.23,Japan
+RESP_1471,32,Female,Flutershy,Child/Parent Collection,116.57,UK
+RESP_1110,15,Male,Rarity,General Public,56.02,UK
+RESP_0588,20,Female,Princess Luna,Brony,506.46,Japan
+RESP_1468,4,Male,Big McIntosh,Child/Parent Collection,24.42,Australia
+RESP_1160,10,Male,Derpy Hooves,Casual Fan,106.82,USA
+RESP_0068,18,Female,Fluttershy,Brony,225.8,UK
+RESP_0665,16,Prefer not to say,Big McIntosh,Casual Fan,36.59,Germany
+RESP_0582,11,Non-binary,Princess Celestia,General Public,41.76,Australia
+RESP_1264,18,Female,Rainbow Dash,Brony,131.64,UK
+RESP_1219,26,M,Big McIntosh,General Public,2.29,Canada
+RESP_0849,11,Unknown,Rarity,Child/Parent Collection,242.15,Canada
+RESP_0618,25,Male,Applejack,Brony,229.94,United States
+RESP_0390,27,Male,Rarity,General Public,39.12,Australia
+RESP_1371,26,Male,Derpy Hooves,General Public,9.06,UK
+RESP_0448,42,Female,Princess Celestia,Child/Parent Collection,86.05,United Kingdom
+RESP_0373,22,Non-binary,Pinkie Pie,Casual Fan,34.93,UK
+RESP_0554,30,Female,Fluttershy,General Public,19.26,Australia
+RESP_1492,,Female,Rarity,Casual Fan,6.64,Canada
+RESP_0319,14,Non-binary,Discord,General Public,51.14,USA
+RESP_0979,24,Prefer not to say,Rarity,General Public,,Germany
+RESP_0706,7,Prefer not to say,Derpy Hooves,Child/Parent Collection,47.58,Japan
+RESP_1163,6,Prefer not to say,Sunset Shimmer,Casual Fan,38.06,Japan
+RESP_1274,13,Female,Discord,Casual Fan,5.31,Japan
+RESP_0133,23,Prefer not to say,Pinkie Pie,Casual Fan,15.6,Canada
+RESP_0737,14,Prefer not to say,Spike,General Public,48.73,Australia
+RESP_0490,13,Female,Twilight Sparkle,General Public,14.79,Germany
+RESP_1224,17,Prefer not to say,Pinkie Pie,Casual Fan,40.43,United Kingdom
+RESP_0508,3,Male,Princess Luna,General Public,44.94,Germany
+RESP_1321,23,male,Spike,Casual Fan,1.04,USA
+RESP_0732,31,Non-binary,Discord,Child/Parent Collection,23.07,Australia
+RESP_1472,27,Non-binary,Twilight Sparkle,Brony,201.15,Japan
+RESP_1049,15,,Rarity,Casual Fan,52.34,United States
+RESP_0126,22,Male,Trixie Lulamoon,Brony,405.47,Canada
+RESP_0501,26,Male,Derpy Hooves,Brony,467.36,UK
+RESP_1122,20,Prefer not to say,Spike,Brony,106.24,USA
+RESP_1306,9,Female,Discord,Casual Fan,86.85,Japan
+RESP_0586,13,Prefer not to say,Applejack,Casual Fan,5.57,Australia
+RESP_0916,26,Unknown,Spike,Casual Fan,40.71,Australia
+RESP_0387,10,Male,Big McIntosh,Child/Parent Collection,90.65,Australia
+RESP_0290,24,Unknown,Princess Luna,General Public,3.61,Australia
+RESP_0931,14,Female,Trixie Lulamoon,Brony,,UK
+RESP_1087,16,Non-binary,,General Public,11.01,United Kingdom
+RESP_1129,31,Prefer not to say,Princess Celestia,Casual Fan,14.88,USA
+RESP_0054,999,Male,Twilight Sparkle,General Public,36.89,United States
+RESP_0612,27,NB,Discord,Brony,125.51,Australia
+RESP_1167,9,male,Princess Celestia,Child/Parent Collection,30.79,Canada
+RESP_0896,,Prefer not to say,Fluttershy,General Public,5.73,Canada
+RESP_1480,10,female,Derpy Hooves,Child/Parent Collection,94.46,Australia
+RESP_0041,17,Male,Rainbow Dash,General Public,12.46,United States
+RESP_0340,22,Non-binary,Discord,Brony,125.83,Canada
+RESP_1047,11,Non-binary,Fluttershy,Casual Fan,20.57,Germany
+RESP_1062,20,Non-binary,Princess Luna,General Public,7.23,UK
+RESP_1152,24,Non-binary,Fluttershy,Brony,141.59,United States
+RESP_0807,13,Non-binary,Big McIntosh,General Public,26.76,Germany
+RESP_0084,26,Female,Starlight Glimmer,General Public,51.85,United Kingdom
+RESP_0116,26,Male,Big McIntosh,General Public,48.34,Japan
+RESP_1191,21,Male,Sunset Shimmer,Brony,206.82,Australia
+RESP_0354,9,Male,Princess Luna,Child/Parent Collection,122.87,Japan
+RESP_0465,35,Prefer not to say,Twilight Sparkle,Child/Parent Collection,124.16,Australia
+RESP_1257,27,NB,Fluttershy,General Public,12.82,Canada
+RESP_0708,13,Female,Applejack,General Public,24.64,Japan
+RESP_0271,15,Prefer not to say,Starlight Glimmer,General Public,35.72,Canada
+RESP_0978,24,Non-binary,Fluttershy,General Public,35.54,UK
+RESP_1290,9,Prefer not to say,Rainbow Dash,General Public,24.95,Canada
+RESP_0611,22,Prefer not to say,Princess Luna,Casual Fan,20.96,United States
+RESP_0870,15,Male,Princess Luna,Brony,100.35,United Kingdom
+RESP_0378,14,Prefer not to say,Derpy Hooves,Casual Fan,24.72,USA
+RESP_1439,18,Prefer not to say,Applejack,Brony,393.26,Japan
+RESP_0097,3,Prefer not to say,Discord,General Public,28.79,United Kingdom
+RESP_0559,13,Male,Trixie Lulamoon,General Public,32.62,UK
+RESP_1270,12,Prefer not to say,Fluttershy,General Public,61.51,USA
+RESP_1407,15,Non-binary,Applejack,Brony,103.48,United States
+RESP_0914,16,,Rarity,General Public,11.74,United States
+RESP_0049,10,Prefer not to say,Trixie Lulamoon,Casual Fan,43.66,Japan
+RESP_0928,18,female,Twilight Sparkle,Casual Fan,11.03,United Kingdom
+RESP_1474,5,Female,Fluttershy,General Public,22.49,Germany
+RESP_1085,15,Male,Rarity,Casual Fan,17.17,United States
+RESP_0154,13,Male,Rainbow Dash,Brony,219.77,
+RESP_0238,29,Non-binary,Big McIntosh,Brony,288.09,UK
+RESP_0055,12,Female,Derpy Hooves,Casual Fan,12.69,United States
+RESP_0395,12,,Sunset Shimmer,Child/Parent Collection,136.16,Japan
+RESP_0124,20,Male,Big McIntosh,Casual Fan,20.65,
+RESP_0356,22,Non-binary,Princess Luna,General Public,18.01,Canada
+RESP_0432,18,Prefer not to say,Big McIntosh,Casual Fan,10.87,Germany
+RESP_0135,32,Prefer not to say,Rarity,Child/Parent Collection,59.07,Japan
+RESP_0474,29,male,Big McIntosh,General Public,19.61,Australia
+RESP_0269,9,M,Pinkie Pie,Child/Parent Collection,47.8,USA
+RESP_0386,24,Male,Rainbow Dash,Casual Fan,77.81,USA
+RESP_0098,16,Prefer not to say,Starlight Glimmer,General Public,4.61,United Kingdom
+RESP_0221,23,Prefer not to say,Twilight Sparkle,Brony,147.62,Canada
+RESP_0042,21,Non-binary,Starlight Glimmer,General Public,2.73,Germany
+RESP_0220,18,Prefer not to say,Big McIntosh,Casual Fan,22.75,
+RESP_0548,20,F,Princess Celestia,General Public,18.57,United Kingdom
+RESP_1389,11,Prefer not to say,Princess Celestia,Child/Parent Collection,144.58,Germany
+RESP_0620,10,Male,Rainbow Dash,Child/Parent Collection,49.14,Germany
+RESP_0956,25,Female,Sunset Shimmer,Brony,193.31,Canada
+RESP_1095,34,Female,Starlight Glimmer,Casual Fan,44.31,USA
+RESP_0639,22,Male,Pinkie Pie,Casual Fan,61.96,
+RESP_0013,18,Non-binary,Fluttershy,Casual Fan,44.55,United Kingdom
+RESP_0502,23,Female,Applejack,General Public,16.11,UK
+RESP_0604,24,Prefer not to say,Derpy Hooves,Casual Fan,16.04,Japan
+RESP_0641,16,Non-binary,Twilight Sparkle,Brony,197.02,Germany
+RESP_0994,28,Non-binary,Trixie Lulamoon,General Public,25.07,UK
+RESP_0622,6,Male,Princess Celestia,Child/Parent Collection,294.25,USA
+RESP_1091,23,Female,Rarity,Brony,178.54,UK
+RESP_0883,28,Male,Rainbow Dash,Brony,196.29,USA
+RESP_1079,18,Prefer not to say,Spike,General Public,13.15,United States
+RESP_0971,30,Female,Big McIntosh,Brony,132.53,Japan
+RESP_1364,31,NB,rarity,Brony,331.6,United States
+RESP_0694,7,Non-binary,Applejack,Child/Parent Collection,187.83,United States
+RESP_1000,19,,Princess Luna,Casual Fan,24.13,Canada
+RESP_0651,10,Prefer not to say,Fluttershy,General Public,20.38,Germany
+RESP_1368,0,Non-binary,Pinkie Pie,Casual Fan,56.34,Canada
+RESP_0886,14,Male,Rarity,Casual Fan,25.67,Canada
+RESP_1397,26,Unknown,Rarity,General Public,17.79,USA
+RESP_1481,45,Male,Fluttershy,Child/Parent Collection,130.08,United States
+RESP_0740,19,Male,Discord,Casual Fan,23.07,United Kingdom
+RESP_0225,30,Female,Princess Luna,Casual Fan,3.45,Japan
+RESP_0337,44,Male,Spike,Child/Parent Collection,26.35,UK
+RESP_0233,26,F,Big McIntosh,Casual Fan,11.82,Japan
+RESP_1361,17,Prefer not to say,Pinkie Pie,Casual Fan,58.87,United Kingdom
+RESP_1408,12,,Spike,Casual Fan,24.33,United States
+RESP_0729,38,Prefer not to say,Derpy Hooves,Child/Parent Collection,94.99,Japan
+RESP_0469,6,Prefer not to say,Starlight Glimmer,Child/Parent Collection,79.04,UK
+RESP_1337,,F,Twilight Sparkle,General Public,16.84,Japan
+RESP_0672,18,Prefer not to say,Fluttershy,General Public,10.48,Australia
+RESP_0206,21,Non-binary,Princess Luna,General Public,30.68,UK
+RESP_0004,20,Male,Rarity,Brony,144.86,USA
+RESP_1412,43,male,Rainbow Dash,Child/Parent Collection,102.58,United Kingdom
+RESP_0826,24,Male,Big McIntosh,Brony,255.56,Japan
+RESP_0747,15,male,Big McIntosh,Brony,101.34,United Kingdom
+RESP_1489,15,Unknown,Applejack,Casual Fan,35.83,Canada
+RESP_0869,28,Male,Spike,Brony,224.04,USA
+RESP_0944,25,Male,Sunset Shimmer,Brony,239.83,
+RESP_1273,25,Male,Sunset Shimmer,Brony,195.36,Germany
+RESP_1250,26,NB,Spike,Brony,94.46,United States
+RESP_0221,23,Prefer not to say,Twilight Sparkle,Brony,147.62,Canada
+RESP_1040,11,Prefer not to say,Fluttershy,Child/Parent Collection,25.22,UK
+RESP_0654,23,Female,Pinkie Pie,Brony,325.24,Canada
+RESP_1386,19,Non-binary,Starlight Glimmer,Brony,204.49,UK
+RESP_0894,20,Non-binary,Big McIntosh,General Public,12.39,Australia
+RESP_0158,16,Male,Pinkie Pie,Casual Fan,31.17,United States
+RESP_1436,22,Prefer not to say,Rainbow Dash,Brony,177.63,UK
+RESP_0463,21,Non-binary,Rarity,Casual Fan,62.81,Australia
+RESP_0161,8,Male,Discord,Child/Parent Collection,77.31,Canada
+RESP_0306,19,Male,Rainbow Dash,Casual Fan,39.05,Canada
+RESP_0396,5,Prefer not to say,Fluttershy,Child/Parent Collection,101.32,Australia
+RESP_0400,35,Non-binary,Derpy Hooves,Child/Parent Collection,42.44,Australia
+RESP_1183,29,Female,Big McIntosh,Casual Fan,19.04,
+RESP_0718,29,female,Big McIntosh,Casual Fan,4.21,Germany
+RESP_1491,17,Male,Rainbow Dash,General Public,22.18,UK
+RESP_1352,15,Male,pinkie pie,Brony,245.61,Australia
+RESP_1179,20,Non-binary,Pinky Pie,Casual Fan,18.94,United States
+RESP_0798,14,Male,Rainbow Dash,General Public,25.3,United States
+RESP_0063,26,Non-binary,Derpy Hooves,General Public,31.12,USA
+RESP_1289,12,F,Princess Celestia,Casual Fan,40.01,United Kingdom
+RESP_0458,7,Prefer not to say,Derpy Hooves,Child/Parent Collection,268.93,USA
+RESP_1349,31,Non-binary,Discord,Brony,157.15,USA
+RESP_0479,41,Prefer not to say,Twilight Sparkle,Child/Parent Collection,47.48,United Kingdom
+RESP_0947,24,Female,Applejack,Brony,203.54,United Kingdom
+RESP_1141,21,Male,Discord,Brony,149.04,Australia
+RESP_1425,32,Female,Spike,Child/Parent Collection,54.32,United States
+RESP_0650,17,M,Rainbow Dash,Brony,226.18,UK
+RESP_1094,10,Non-binary,Sunset Shimmer,Casual Fan,1.61,Japan
+RESP_1252,17,Non-binary,Trixie Lulamoon,General Public,17.75,United Kingdom
+RESP_0348,28,Non-binary,Princess Luna,Brony,352.77,Canada
+RESP_0447,17,Female,Sunset Shimmer,General Public,62.22,Japan
+RESP_1378,29,Prefer not to say,Discord,Casual Fan,24.27,Australia
+RESP_0380,17,Male,Spike,General Public,24.51,Germany
+RESP_1334,31,Prefer not to say,Big McIntosh,Casual Fan,37.34,Japan
+RESP_0652,,Non-binary,Spike,Brony,511.75,United Kingdom
+RESP_0780,33,NB,Pinkie Pie,Child/Parent Collection,85.35,United States
+RESP_0232,41,Female,Starlight Glimmer,Child/Parent Collection,92.79,Canada
+RESP_0383,11,Non-binary,Big McIntosh,Casual Fan,10.56,Australia
+RESP_0713,19,Prefer not to say,Pinkie Pie,Brony,164.41,Australia
+RESP_0073,25,Non-binary,Spike,Brony,164.72,Germany
+RESP_0071,19,Prefer not to say,Pinkie Pie,Casual Fan,32.21,USA
+RESP_1488,16,Prefer not to say,fluttershy,General Public,36.82,United States
+RESP_1147,25,Prefer not to say,Rarity,Brony,253.82,United Kingdom
+RESP_0172,9,Non-binary,Starlight,Child/Parent Collection,21.07,Japan
+RESP_0169,35,Prefer not to say,Discord,Child/Parent Collection,68.41,Canada
+RESP_0494,8,Non-binary,Starlight Glimmer,Child/Parent Collection,218.27,Japan
+RESP_0631,29,Female,Sunset Shimmer,Casual Fan,12.88,Germany
+RESP_0596,18,male,Derpy Hooves,Brony,179.61,United Kingdom
+RESP_0273,26,Non-binary,Princess Luna,Brony,227.75,Japan
+RESP_0977,9,Non-binary,Rarity,Child/Parent Collection,14.22,Canada
+RESP_0421,17,female,Rainbox Dash,Casual Fan,18.83,Germany
+RESP_0095,14,Male,Pinkie Pie,Casual Fan,29.43,USA
+RESP_1121,15,Male,Rarity,Casual Fan,62.67,United Kingdom
+RESP_1227,18,F,Rainbow Dash,Casual Fan,8.65,USA
+RESP_0043,22,female,Princess Luna,General Public,23.59,United States
+RESP_0057,25,Female,Starlight Glimmer,Brony,207.02,Australia
+RESP_1262,39,Male,Twilight Sparkle,Child/Parent Collection,92.6,USA
+RESP_0721,17,Male,Rainbow Dash,Brony,196.21,Japan
+RESP_0667,4,Non-binary,Rarity,Casual Fan,27.52,UK
+RESP_0039,37,Prefer not to say,Rarity,Child/Parent Collection,66.53,UK
+RESP_0307,28,Female,Princess Luna,Brony,197.19,Australia
+RESP_0700,40,female,Rainbow Dash,Child/Parent Collection,71.3,Australia
+RESP_0877,21,Female,Princess Luna,Brony,18.69,United States
+RESP_0409,31,,Sunset Shimmer,Casual Fan,33.61,Australia
+RESP_0167,32,Non-binary,Derpy Hooves,General Public,27.31,Canada
+RESP_0535,15,Female,Derpy Hooves,Casual Fan,33.38,Germany
+RESP_1282,28,,Flutershy,Brony,294.22,Canada
+RESP_1124,21,Unknown,Princess Celestia,General Public,14.4,Australia
+RESP_1464,30,Prefer not to say,Spike,General Public,21.27,United States
+RESP_1098,27,,Princess Luna,Brony,375.84,Canada
+RESP_1454,30,Prefer not to say,Derpy Hooves,Casual Fan,6.34,Australia
+RESP_0735,16,Non-binary,Applejack,General Public,59.93,Germany
+RESP_1233,27,Female,Derpy Hooves,General Public,9.14,Japan
+RESP_0317,12,Non-binary,Rainbow Dash,Child/Parent Collection,67.88,UK
+RESP_1286,6,M,applejack,General Public,18.63,Germany
+RESP_1325,32,Male,Starlight Glimmer,General Public,45.07,United Kingdom
+RESP_0517,20,Male,Princess Luna,Casual Fan,7.23,Germany
+RESP_1159,25,Non-binary,Fluttershy,Brony,233.93,Germany
+RESP_0534,12,Male,Princess Luna,Child/Parent Collection,8.36,Australia
+RESP_0692,14,Non-binary,Fluttershy,Casual Fan,3.67,UK
+RESP_0638,20,Prefer not to say,Flutershy,Casual Fan,6.21,Japan
+RESP_0841,21,Prefer not to say,Derpy Hooves,Casual Fan,7.35,Canada
+RESP_0549,0,,Starlight Glimmer,General Public,12.46,USA
+RESP_0454,35,male,Princess Celestia,Child/Parent Collection,12.66,United Kingdom
+RESP_0607,10,Male,Applejack,Child/Parent Collection,,United States
+RESP_1307,19,female,Twilight Sparkle,Brony,223.45,UK
+RESP_1258,38,Prefer not to say,Spike,Child/Parent Collection,80.02,United Kingdom
+RESP_0599,24,Female,rarity,General Public,54.45,Germany
+RESP_0830,14,Male,Big McIntosh,General Public,7.86,Germany
+RESP_0571,44,Non-binary,Big McIntosh,Child/Parent Collection,253.9,United States
+RESP_0682,17,Non-binary,Princess Celestia,Casual Fan,9.64,UK
+RESP_0062,22,Non-binary,,Casual Fan,29.64,UK
+RESP_1064,43,Non-binary,Derpy Hooves,Child/Parent Collection,194.2,United Kingdom
+RESP_0537,19,Prefer not to say,fluttershy,Casual Fan,56.07,Germany
+RESP_1453,24,Prefer not to say,Princess Luna,Brony,114.43,USA
+RESP_1052,28,Non-binary,Rarity,Brony,283.29,
+RESP_0245,25,Non-binary,Trixie Lulamoon,Brony,401.09,USA
+RESP_0026,18,Female,Big McIntosh,Casual Fan,17.87,Canada
+RESP_0223,28,Non-binary,Rainbow Dash,General Public,45.95,United Kingdom
+RESP_0972,45,Prefer not to say,Pinkie Pie,Child/Parent Collection,58.22,Canada
+RESP_0106,,Non-binary,Discord,Child/Parent Collection,31.85,United States
+RESP_1116,23,Male,Rainbow Dash,Casual Fan,13.56,UK
+RESP_0510,22,Female,Applejack,Brony,240.22,UK
+RESP_0132,21,Prefer not to say,Fluttershy,Brony,265.1,Japan
+RESP_1478,30,Prefer not to say,Princess Luna,Casual Fan,15.57,United States
+RESP_0445,21,Prefer not to say,Spike,Brony,282.98,USA
+RESP_0685,35,Prefer not to say,Princess Luna,Child/Parent Collection,196.47,Australia
+RESP_0509,23,NB,Spike,Brony,193.83,United Kingdom
+RESP_1392,29,Male,Applejack,Casual Fan,39.8,Japan
+RESP_0076,37,Male,Spike,Child/Parent Collection,106.04,United States
+RESP_0037,4,female,Rainbow Dash,Child/Parent Collection,50.3,USA
+RESP_1360,25,Male,Applejack,Brony,200.81,United States
+RESP_0058,7,Non-binary,Starlight Glimmer,Child/Parent Collection,162.64,UK
+RESP_0197,22,Female,rarity,Brony,351.63,Canada
+RESP_1277,19,Female,Discord,Casual Fan,30.71,USA
+RESP_0752,16,Unknown,Applejack,Casual Fan,26.2,Germany
+RESP_1165,7,female,Trixie Lulamoon,Child/Parent Collection,86.51,United States
+RESP_0705,36,NB,Princess Luna,Child/Parent Collection,105.9,Canada
+RESP_0478,45,Female,Spike,Child/Parent Collection,92.31,Japan
+RESP_0087,24,Non-binary,Sunset Shimmer,Brony,234.8,Canada
+RESP_1421,17,Female,Starlight Glimmer,Casual Fan,51.34,United States
+RESP_0562,21,Non-binary,Twilight Sparkle,Brony,163.75,Japan
+RESP_0335,24,Non-binary,Spike,Brony,155.98,United States
+RESP_1063,26,Non-binary,Discord,General Public,57.21,Australia
+RESP_1131,25,Prefer not to say,Discord,General Public,27.27,Canada
+RESP_0958,27,Non-binary,Pinkie Pie,Brony,274.31,Germany
+RESP_1195,20,Prefer not to say,Starlight Glimmer,Brony,,UK
+RESP_1200,26,Male,Rarity,General Public,67.03,UK
+RESP_0539,19,Female,Applejack,General Public,21.8,Germany
+RESP_1328,23,Male,Starlight Glimmer,General Public,54.26,Australia
+RESP_0673,21,Non-binary,Pinkie Pie,General Public,52.94,USA
+RESP_0419,23,Female,Derpy Hooves,Casual Fan,30.25,United Kingdom
+RESP_1339,3,Female,Trixie Lulamoon,General Public,52.57,Japan
+RESP_1441,13,Female,Discord,Casual Fan,46.69,Japan
+RESP_1418,28,Non-binary,Twilight Sparkle,Casual Fan,45.98,United States
+RESP_0574,27,Male,Spike,Casual Fan,22.41,United Kingdom
+RESP_1193,9,Male,Twiligh Sparkle,Child/Parent Collection,90.33,Japan
+RESP_1308,23,Non-binary,Starlight,Brony,487.6,Japan
+RESP_0333,25,Female,Starlight,Brony,137.85,Japan
+RESP_0875,13,Prefer not to say,Trixie Lulamoon,General Public,48.52,Germany
+RESP_0575,10,Female,Derpy Hooves,Casual Fan,,Australia
+RESP_1345,19,Male,Spike,General Public,23.47,Australia
+RESP_1128,16,Prefer not to say,Big McIntosh,General Public,8.88,
+RESP_1123,10,Male,Rainbow Dash,Child/Parent Collection,123.84,UK
+RESP_1405,6,Non-binary,Trixie Lulamoon,Child/Parent Collection,85.48,UK
+RESP_1246,7,Female,Fluttershy,Child/Parent Collection,104.2,United States
+RESP_1448,31,Non-binary,Trixie Lulamoon,General Public,5.94,Germany
+RESP_1393,5,Female,Starlight Glimmer,Child/Parent Collection,63.46,Canada
+RESP_0009,250,Prefer not to say,Rainbow Dash,Child/Parent Collection,113.0,Canada
+RESP_1356,11,Prefer not to say,Princess Celestia,Child/Parent Collection,64.12,Canada
+RESP_1326,24,Unknown,Derpy Hooves,Brony,162.44,Japan
+RESP_0414,29,Prefer not to say,fluttershy,Casual Fan,4.18,Japan
+RESP_0305,36,Prefer not to say,Rarity,Child/Parent Collection,68.48,United Kingdom
+RESP_1248,6,Prefer not to say,Rarity,General Public,79.72,Japan
+RESP_0800,13,Non-binary,Applejack,General Public,53.75,Japan
+RESP_0075,27,Prefer not to say,Twilight Sparkle,Casual Fan,9.47,UK
+RESP_0903,17,Prefer not to say,Fluttershy,Brony,293.85,USA
+RESP_0523,40,Non-binary,Starlight Glimmer,Child/Parent Collection,180.86,UK
+RESP_0336,33,Male,Twilight Sparkle,Child/Parent Collection,90.36,Australia
+RESP_0570,29,Female,Princess Celestia,General Public,25.41,
+RESP_0591,15,Male,Discord,Casual Fan,44.7,Canada
+RESP_0089,27,Male,Starlight Glimmer,Casual Fan,,Germany
+RESP_1499,22,Prefer not to say,Big McIntosh,Brony,281.38,UK
+RESP_0218,38,Non-binary,Princess Celestia,Child/Parent Collection,88.61,Australia
+RESP_1127,21,Female,Sunset Shimmer,General Public,11.38,United States
+RESP_0174,5,Prefer not to say,Starlight Glimmer,Child/Parent Collection,120.55,USA
+RESP_1419,24,Male,Big McIntosh,Casual Fan,18.54,UK
+RESP_0222,20,Prefer not to say,Fluttershy,Brony,237.68,Canada
+RESP_0320,22,Female,Starlight,General Public,46.49,Australia
+RESP_1344,16,Prefer not to say,Spike,General Public,44.51,UK
+RESP_1381,17,Female,Pinkie Pie,General Public,59.98,United States
+RESP_1226,22,Non-binary,Big McIntosh,Casual Fan,21.82,UK
+RESP_0267,25,Male,Starlight Glimmer,Brony,106.21,
+RESP_0007,7,Non-binary,Rainbow Dash,Casual Fan,11.22,United States
+RESP_1293,22,,Princess Celestia,General Public,59.1,United Kingdom
+RESP_1452,24,Female,Princess Celestia,Brony,184.75,USA
+RESP_0139,30,Prefer not to say,Sunset Shimmer,General Public,31.52,United Kingdom
+RESP_0164,16,F,Pinkie Pie,Brony,236.87,Canada
+RESP_1281,12,Female,Starlight Glimmer,Casual Fan,31.87,Japan
+RESP_0595,30,F,Rarity,Brony,151.79,Japan
+RESP_1456,20,Prefer not to say,Spike,Brony,109.01,Japan
+RESP_1363,20,NB,Starlight Glimmer,General Public,10.58,Japan
+RESP_1119,5,Prefer not to say,Princess Celestia,Child/Parent Collection,132.0,Australia
+RESP_1466,21,Prefer not to say,Apple Jack,Brony,136.7,Japan
+RESP_0524,36,Non-binary,Pinkie Pie,Child/Parent Collection,155.79,Germany
+RESP_0900,27,Female,Sunset Shimmer,Casual Fan,29.73,Canada
+RESP_0858,16,Non-binary,Trixie Lulamoon,Brony,256.02,Australia
+RESP_0579,15,Male,Pinkie Pie,Casual Fan,9.07,Australia
+RESP_1024,34,Female,Rarity,Child/Parent Collection,135.54,United States
+RESP_0020,28,Female,Big McIntosh,Brony,105.03,United States
+RESP_0733,17,Non-binary,Big McIntosh,Brony,153.37,Canada
+RESP_0634,24,Male,Spike,Casual Fan,46.3,USA
+RESP_0803,26,Female,Rainbow Dash,General Public,22.43,USA
+RESP_0619,5,Non-binary,Starlight Glimmer,Child/Parent Collection,78.27,United States
+RESP_0817,30,Prefer not to say,Big McIntosh,General Public,44.2,UK
+RESP_0656,3,F,,Casual Fan,14.98,United Kingdom
+RESP_1217,19,Male,Princess Luna,Casual Fan,48.32,
+RESP_0789,30,F,Sunset Shimmer,General Public,7.26,
+RESP_0138,8,male,Rainbox Dash,Child/Parent Collection,51.67,United Kingdom
+RESP_0558,42,M,Derpy Hooves,Child/Parent Collection,204.48,Germany
+RESP_0698,23,Prefer not to say,Spike,Brony,190.46,United Kingdom
+RESP_1265,29,Male,Discord,General Public,75.89,United States
+RESP_1409,27,Non-binary,Big McIntosh,Casual Fan,15.27,Australia
+RESP_1229,13,,Pinky Pie,Casual Fan,7.18,Germany
+RESP_1317,21,Prefer not to say,pinkie pie,General Public,36.12,UK
+RESP_0369,32,,Flutershy,Brony,108.63,United States
+RESP_1451,29,Male,Princess Luna,General Public,25.55,UK
+RESP_1012,30,Non-binary,Fluttershy,General Public,,Germany
+RESP_0328,10,Prefer not to say,Princess Luna,Casual Fan,49.32,Japan
+RESP_0318,34,female,Discord,Child/Parent Collection,86.8,United Kingdom
+RESP_1174,28,Male,Muffin Pony,Brony,224.46,Australia
+RESP_0071,19,Prefer not to say,Pinkie Pie,Casual Fan,32.21,USA
+RESP_0529,19,Prefer not to say,Princess Luna,Brony,227.03,Japan
+RESP_0527,16,F,Princess Celestia,Casual Fan,14.9,Japan
+RESP_0088,50,Non-binary,Starlight Glimmer,General Public,60.64,Canada
+RESP_0480,24,Female,Applejack,Casual Fan,13.3,Germany
+RESP_0339,24,Female,Spike,Casual Fan,52.4,United Kingdom
+RESP_1129,31,Prefer not to say,Princess Celestia,Casual Fan,14.88,USA
+RESP_0658,27,Prefer not to say,Big McIntosh,Brony,269.13,Japan
+RESP_0149,27,Non-binary,,Brony,202.96,UK
+RESP_1485,29,Male,Princess Luna,General Public,14.89,Japan
+RESP_1424,29,female,Trixie Lulamoon,Brony,173.86,United States
+RESP_0029,24,Non-binary,Discord,Brony,353.6,Canada
+RESP_0247,20,Female,Trixie Lulamoon,General Public,10.32,Japan
+RESP_0366,25,,Twilight Sparkle,Casual Fan,53.62,Australia
+RESP_0799,21,Non-binary,Princess Luna,Brony,200.4,United Kingdom
+RESP_0862,999,Male,Princess Luna,Casual Fan,7.76,Australia
+RESP_1161,23,Female,Trixie Lulamoon,Brony,133.9,Canada
+RESP_0199,19,Prefer not to say,Pinky Pie,Brony,278.68,Canada
+RESP_0821,22,Prefer not to say,Trixie Lulamoon,Brony,72.89,Australia
+RESP_0745,29,Prefer not to say,Muffin Pony,Casual Fan,32.86,
+RESP_0975,35,F,Princess Celestia,Child/Parent Collection,40.09,Japan
+RESP_0405,10,Male,Twilight Sparkle,Casual Fan,5.31,United States
+RESP_0839,22,Prefer not to say,Derpy Hooves,General Public,10.27,United Kingdom
+RESP_0484,9,M,Princess Celestia,Casual Fan,31.6,Japan
+RESP_0159,11,Female,Starlight Glimmer,Casual Fan,22.85,Japan
+RESP_0316,21,Non-binary,Twiligh Sparkle,Casual Fan,16.83,Japan
+RESP_0257,21,Prefer not to say,Rainbox Dash,Brony,106.45,Australia
+RESP_0008,8,Female,Fluttershy,General Public,14.68,Australia
+RESP_1225,3,Non-binary,Big McIntosh,General Public,60.56,Germany
+RESP_0385,19,Female,Applejack,General Public,8.61,Japan
+RESP_0867,41,Prefer not to say,Twilight Sparkle,Child/Parent Collection,30.57,Canada
+RESP_0178,28,Female,Princess Luna,Brony,87.77,United Kingdom
+RESP_0957,9,Male,Trixie Lulamoon,Child/Parent Collection,122.18,Germany
+RESP_0315,8,Male,Big McIntosh,General Public,36.01,United Kingdom
+RESP_0358,21,Unknown,Discord,General Public,33.77,United States
+RESP_0299,39,Prefer not to say,Spike,Child/Parent Collection,22.49,Australia
+RESP_0456,38,Prefer not to say,Big McIntosh,General Public,8.62,United Kingdom
+RESP_0544,27,Male,Sunset Shimmer,Casual Fan,42.3,
+RESP_0663,20,M,Rainbow Dash,General Public,27.72,Australia
+RESP_0597,19,Female,Twilight Sparkle,General Public,28.86,Australia
+RESP_1279,13,Female,Sunset,General Public,4.84,Japan
+RESP_1077,20,Female,Applejack,General Public,16.27,USA
+RESP_1168,39,Non-binary,Spike,Child/Parent Collection,145.63,USA
+RESP_0528,17,Prefer not to say,Spike,Casual Fan,25.31,Canada
+RESP_1292,4,Prefer not to say,Rainbow Dash,Child/Parent Collection,37.92,United Kingdom
+RESP_0160,29,Non-binary,Twilight Sparkle,General Public,22.95,United Kingdom
+RESP_0984,36,Female,Pinkie Pie,General Public,8.87,Germany
+RESP_0361,27,Male,Discord,General Public,15.66,Japan
+RESP_1359,32,Male,Applejack,General Public,34.4,United States
+RESP_0203,15,Male,Trixie Lulamoon,General Public,11.72,UK
+RESP_0981,28,Female,Princess Celestia,Casual Fan,2.24,Canada
+RESP_0818,17,Unknown,Flutershy,Brony,367.63,United Kingdom
+RESP_0113,36,Prefer not to say,Sunset Shimmer,General Public,22.17,United Kingdom
+RESP_1497,35,Female,Fluttershy,Brony,,Canada
+RESP_0308,24,Prefer not to say,Pinkie Pie,Casual Fan,52.31,UK
+RESP_1207,17,M,Sunset Shimmer,Casual Fan,33.31,UK
+RESP_0423,29,Prefer not to say,Trixie Lulamoon,General Public,33.15,United Kingdom
+RESP_0834,5,Female,Spike,Child/Parent Collection,42.34,Japan
+RESP_1140,9,Prefer not to say,Sunset Shimmer,Casual Fan,,Germany
+RESP_1410,8,Non-binary,Big McIntosh,Child/Parent Collection,,UK
+RESP_0460,21,Prefer not to say,Derpy Hooves,Brony,222.64,USA
+RESP_0590,36,Prefer not to say,Twiligh Sparkle,General Public,56.46,Germany
+RESP_1333,25,Prefer not to say,Big McIntosh,Brony,96.67,Japan
+RESP_0763,19,Non-binary,Princess Luna,Casual Fan,30.28,United States
+RESP_0904,27,Male,Spike,Casual Fan,24.89,
+RESP_1218,43,Female,Derpy Hooves,Child/Parent Collection,39.68,USA
+RESP_0450,15,female,Discord,Brony,120.15,United States
+RESP_1206,32,Prefer not to say,Starlight Glimmer,Child/Parent Collection,64.99,Germany
+RESP_0680,15,Female,Sunset Shimmer,Casual Fan,32.81,Japan
+RESP_0693,27,Non-binary,Trixie Lulamoon,Brony,207.26,USA
+RESP_1413,10,Male,Big McIntosh,Casual Fan,57.18,United Kingdom
+RESP_0081,42,female,,Child/Parent Collection,57.41,Canada
+RESP_1348,10,Female,Derpy,Child/Parent Collection,36.91,Australia
+RESP_1145,36,Female,Derpy Hooves,Casual Fan,18.46,Canada
+RESP_0861,19,Prefer not to say,Rainbow Dash,General Public,38.99,Australia
+RESP_0216,28,Non-binary,Fluttershy,Brony,261.6,Germany
+RESP_1009,4,Male,Derpy,Casual Fan,39.02,Japan
+RESP_0031,23,Prefer not to say,Big McIntosh,Brony,162.0,United States
+RESP_0243,36,Prefer not to say,Trixie Lulamoon,Brony,196.28,Australia
+RESP_1034,12,Non-binary,Twilight Sparkle,General Public,10.06,
+RESP_0642,5,Prefer not to say,Trixie Lulamoon,Child/Parent Collection,52.43,USA
+RESP_0697,13,Prefer not to say,Fluttershy,General Public,34.15,Germany
+RESP_0210,24,Male,Starlight Glimmer,Brony,35.87,Australia
+RESP_0879,32,Prefer not to say,Starlight,Child/Parent Collection,63.37,Germany
+RESP_0771,18,Female,Trixie Lulamoon,Casual Fan,12.82,Australia
+RESP_0753,25,Female,Sunset Shimmer,Brony,108.47,Australia
+RESP_1343,21,Prefer not to say,Big McIntosh,Casual Fan,7.02,
+RESP_0436,24,Female,Princess Luna,Casual Fan,11.11,United States
+RESP_1351,,Non-binary,Fluttershy,Brony,117.63,UK
+RESP_1444,17,Female,Princess Celestia,General Public,6.93,UK
+RESP_1125,20,Male,Starlight Glimmer,General Public,75.48,Germany
+RESP_1406,31,Non-binary,Starlight Glimmer,Child/Parent Collection,83.77,
+RESP_0689,22,Female,pinkie pie,General Public,54.98,Australia
+RESP_0552,16,Prefer not to say,Rainbow Dash,Casual Fan,55.71,Canada
+RESP_0545,22,NB,Sunset Shimmer,Casual Fan,14.53,Germany
+RESP_1074,24,Prefer not to say,Big McIntosh,Casual Fan,21.91,United States
+RESP_0833,21,Prefer not to say,Big McIntosh,Casual Fan,1.76,United Kingdom
+RESP_1135,22,Prefer not to say,fluttershy,General Public,41.02,Japan
+RESP_0913,45,Female,Sunset Shimmer,Child/Parent Collection,146.69,UK
+RESP_0715,21,Non-binary,Trixie Lulamoon,Brony,175.55,Japan
+RESP_0404,27,Prefer not to say,Pinkie Pie,Brony,272.74,Germany
+RESP_1191,21,Male,Sunset Shimmer,Brony,206.82,Australia
+RESP_0363,12,Non-binary,Discord,Brony,142.68,Canada
+RESP_0272,17,Female,Flutershy,Casual Fan,20.82,Germany
+RESP_0467,20,Male,Applejack,General Public,7.04,Germany
+RESP_1376,41,Male,Sunset Shimmer,Child/Parent Collection,43.8,Canada
+RESP_1132,35,Non-binary,Derpy Hooves,Child/Parent Collection,84.9,USA
+RESP_1471,32,Female,Flutershy,Child/Parent Collection,116.57,UK
+RESP_0278,5,Prefer not to say,Twilight Sparkle,Child/Parent Collection,163.32,Japan
+RESP_1417,26,,Discord,Casual Fan,17.62,Australia
+RESP_1462,15,NB,Discord,Casual Fan,11.41,UK
+RESP_1114,21,Non-binary,Discord,Brony,213.45,Germany
+RESP_0442,5,male,Derpy Hooves,Child/Parent Collection,48.45,UK
+RESP_0723,15,Female,Starlight Glimmer,Casual Fan,,United States
+RESP_0787,21,Female,Princess Luna,Brony,61.53,USA
+RESP_1209,18,Prefer not to say,Spike,Casual Fan,51.3,Germany
+RESP_0443,19,,Big McIntosh,Casual Fan,31.92,Japan
+RESP_0300,27,Non-binary,Rainbow Dash,Brony,183.66,Australia
+RESP_0993,4,Prefer not to say,Discord,General Public,52.48,United States
+RESP_0376,29,Non-binary,Big McIntosh,Casual Fan,35.77,USA
+RESP_1054,23,Unknown,Spike,Brony,385.02,USA
+RESP_1151,18,Non-binary,,Brony,66.58,UK
+RESP_0986,16,Non-binary,Applejack,General Public,19.71,USA
+RESP_1042,17,Male,Sunset Shimmer,Casual Fan,40.37,Australia
+RESP_1422,23,F,Spike,Brony,314.3,Japan
+RESP_0473,19,male,Spike,Brony,135.04,United Kingdom
+RESP_1391,27,Male,Big McIntosh,General Public,58.17,United States
+RESP_0564,18,Prefer not to say,Princess Luna,General Public,30.88,Japan
+RESP_1398,22,Male,Applejack,Brony,223.0,Canada
+RESP_0751,43,Non-binary,Trixie Lulamoon,Child/Parent Collection,72.04,Canada
+RESP_0389,11,Female,Rainbow Dash,General Public,19.94,Germany
+RESP_0023,12,Non-binary,Spike,Child/Parent Collection,131.85,Australia
+RESP_0872,23,Male,Twilight Sparkle,Brony,153.66,Japan
+RESP_0713,19,Prefer not to say,Pinkie Pie,Brony,164.41,Australia
+RESP_0125,26,Male,Pinkie Pie,Casual Fan,31.82,Japan
+RESP_0424,9,Female,Princess Luna,Child/Parent Collection,102.97,United Kingdom
+RESP_0774,24,male,Trixie Lulamoon,Casual Fan,36.36,United States
+RESP_1384,19,Prefer not to say,Princess Luna,Brony,129.12,United States
+RESP_0471,44,Female,Sunset Shimmer,Child/Parent Collection,83.16,United Kingdom
+RESP_0722,6,Male,Rarity,Casual Fan,14.47,United Kingdom
+RESP_1059,15,Male,Sunset Shimmer,Casual Fan,27.47,United Kingdom
+RESP_0440,29,Prefer not to say,Spike,General Public,9.28,United Kingdom
+RESP_0143,20,Non-binary,Starlight,General Public,40.89,Australia
+RESP_0051,31,Prefer not to say,Twilight Sparkle,Casual Fan,10.31,Germany
+RESP_0864,20,Non-binary,Trixie Lulamoon,Brony,210.6,United Kingdom
+RESP_1442,30,Female,Starlight,Child/Parent Collection,22.86,Japan
+RESP_1075,4,Female,Discord,Child/Parent Collection,90.84,Australia
+RESP_0624,13,Non-binary,Pinkie Pie,Casual Fan,,Canada
+RESP_1118,14,Male,Rarity,Casual Fan,23.68,USA
+RESP_0082,25,Non-binary,Twiligh Sparkle,Casual Fan,77.04,United States
+RESP_0704,17,Male,Twilight Sparkle,General Public,13.08,United States
+RESP_0483,32,Prefer not to say,Pinkie Pie,General Public,15.68,Australia
+RESP_0322,15,Female,Fluttershy,Casual Fan,63.43,United States
+RESP_1288,14,Male,Pinkie Pie,General Public,28.99,USA
+RESP_0506,10,Non-binary,Spike,Child/Parent Collection,84.35,Japan
+RESP_1465,21,Prefer not to say,Trixie Lulamoon,General Public,25.15,UK
+RESP_0842,12,Male,Derpy Hooves,Child/Parent Collection,184.89,Canada
+RESP_0067,-5,Prefer not to say,Big McIntosh,Brony,305.75,Canada
+RESP_1319,43,Non-binary,,Child/Parent Collection,45.8,Japan
+RESP_1369,15,Prefer not to say,Fluttershy,Casual Fan,,Canada
+RESP_1365,17,Male,Big McIntosh,Brony,68.91,Australia
+RESP_0802,,Non-binary,Fluttershy,Brony,134.99,Australia
+RESP_1019,38,Male,Big McIntosh,Child/Parent Collection,101.8,United States
+RESP_0032,27,Male,Princess Luna,Casual Fan,25.37,Japan
+RESP_0796,5,Non-binary,Rarity,General Public,24.46,USA
+RESP_0418,11,NB,Discord,Child/Parent Collection,77.72,Canada
+RESP_0882,27,Non-binary,Princess Luna,Casual Fan,40.62,Australia
+RESP_0633,32,female,Sunset Shimmer,Child/Parent Collection,63.61,USA
+RESP_1198,22,Female,Big McIntosh,Casual Fan,103.72,Japan
+RESP_1105,22,Female,Sunset Shimmer,General Public,5.63,Canada
+RESP_0065,34,,Apple Jack,Casual Fan,35.34,United Kingdom
+RESP_0140,31,Prefer not to say,Trixie Lulamoon,General Public,19.59,USA
+RESP_1242,39,female,Pinkie Pie,Child/Parent Collection,160.43,United States
+RESP_1315,26,Male,Applejack,General Public,23.59,USA
+RESP_0078,19,male,Big McIntosh,Casual Fan,42.25,Japan
+RESP_0492,4,Female,Discord,Child/Parent Collection,128.18,United States
+RESP_1086,10,female,Princess Luna,Child/Parent Collection,89.22,Germany
+RESP_1170,21,Male,Rarity,Brony,140.64,Australia
+RESP_0533,17,Prefer not to say,Sunset Shimmer,General Public,15.42,USA
+RESP_0066,38,Non-binary,Discord,Child/Parent Collection,121.65,USA
+RESP_1300,,male,Starlight Glimmer,Brony,175.08,Australia
+RESP_1178,14,Non-binary,Trixie Lulamoon,Casual Fan,28.24,Canada
+RESP_1295,24,Female,Trixie Lulamoon,General Public,11.08,USA
+RESP_0297,23,Male,Twilight Sparkle,Brony,202.57,United Kingdom
+RESP_0592,13,Non-binary,rainbow dash,Casual Fan,24.93,Australia
+RESP_0420,25,F,Princess Luna,Casual Fan,6.57,United Kingdom
+RESP_0768,24,Non-binary,Starlight Glimmer,General Public,26.78,USA
+RESP_0893,30,Non-binary,Rarity,Brony,73.99,United Kingdom
+RESP_0439,22,Male,Trixie Lulamoon,General Public,53.1,Australia
+RESP_0262,12,Non-binary,Derpy Hooves,Child/Parent Collection,56.22,United Kingdom
+RESP_1027,5,NB,Spike,Child/Parent Collection,40.08,Germany
+RESP_0725,9,Prefer not to say,Sunset Shimmer,Child/Parent Collection,137.51,Germany
+RESP_1427,28,Non-binary,Twilight Sparkle,Casual Fan,32.67,United States
+RESP_0282,17,NB,Rainbow Dash,General Public,23.91,Germany
+RESP_0627,4,NB,Pinkie Pie,Child/Parent Collection,132.96,Canada
+RESP_1051,25,Prefer not to say,Sunset Shimmer,General Public,33.26,Canada
+RESP_1084,11,Male,Trixie Lulamoon,General Public,18.32,Germany
+RESP_1493,16,Prefer not to say,Sunset Shimmer,General Public,12.62,Germany
+RESP_0189,7,Prefer not to say,Rarity,Casual Fan,,Germany
+RESP_1447,20,Prefer not to say,Applejack,General Public,9.77,Canada
+RESP_0252,9,Prefer not to say,Discord,General Public,5.73,United Kingdom
+RESP_0584,12,Prefer not to say,Princess Luna,Brony,206.76,Australia
+RESP_1197,29,Female,Discord,Casual Fan,21.57,Japan
+RESP_1395,36,Male,pinkie pie,Casual Fan,25.01,Germany
+RESP_1272,17,Male,Princess Luna,General Public,26.57,Japan
+RESP_0515,23,Non-binary,Sunset Shimmer,Brony,184.51,United States
+RESP_0976,4,Prefer not to say,Derpy Hooves,Child/Parent Collection,36.8,United States
+RESP_1428,24,Non-binary,Derpy,Casual Fan,47.77,Australia
+RESP_1458,23,Non-binary,Sunset Shimmer,General Public,47.38,Australia
+RESP_0707,18,Female,Fluttershy,Casual Fan,19.32,USA
+RESP_0488,31,Male,Twilight Sparkle,Brony,106.79,United Kingdom
+RESP_0664,17,Female,Trixie Lulamoon,Brony,309.25,USA
+RESP_1169,20,Non-binary,Fluttershy,Brony,55.15,Germany
+RESP_1228,5,Prefer not to say,Princess Luna,Casual Fan,69.31,Germany
+RESP_0274,37,Female,Twilight Sparkle,Child/Parent Collection,190.8,United Kingdom
+RESP_0686,19,Non-binary,rarity,Casual Fan,21.87,UK
+RESP_1190,22,Non-binary,Rainbow Dash,Casual Fan,32.49,USA
+RESP_1284,12,Prefer not to say,Spike,Child/Parent Collection,34.95,Canada
+RESP_0878,16,Female,Fluttershy,Brony,219.88,United States
+RESP_1080,14,Prefer not to say,,Casual Fan,13.68,Germany
+RESP_1390,24,Non-binary,Pinky Pie,General Public,22.98,Germany
+RESP_0449,17,Female,Starlight Glimmer,Brony,107.06,Australia
+RESP_0412,11,Non-binary,Sunset Shimmer,Child/Parent Collection,66.55,Canada
+RESP_0459,0,Male,Rainbow Dash,Casual Fan,,United States
+RESP_0377,19,Female,Twilight Sparkle,Brony,389.54,Canada
+RESP_1347,27,Non-binary,Sunset Shimmer,General Public,2.38,USA
+RESP_0668,8,Female,Derpy Hooves,Child/Parent Collection,107.91,United Kingdom
+RESP_1278,-5,Non-binary,Pinkie Pie,General Public,32.13,Australia
+RESP_0150,19,Female,Big McIntosh,General Public,49.07,USA
+RESP_0982,22,Prefer not to say,Big McIntosh,Casual Fan,19.41,Germany
+RESP_1234,17,Non-binary,Starlight Glimmer,Casual Fan,63.14,Australia
+RESP_0734,,male,Pinkie Pie,Child/Parent Collection,41.44,Canada
+RESP_0219,23,Prefer not to say,rainbow dash,Brony,194.25,UK
+RESP_0240,23,Female,Pinkie Pie,Brony,268.58,USA
+RESP_1188,10,NB,Rarity,Casual Fan,19.76,United Kingdom
+RESP_0868,7,Non-binary,Sunset,Casual Fan,3.48,United States
+RESP_0726,8,Unknown,Rainbow Dash,Child/Parent Collection,102.81,Germany
+RESP_0193,19,Prefer not to say,rainbow dash,Brony,88.77,Japan
+RESP_0793,26,Male,Derpy Hooves,General Public,35.41,United Kingdom
+RESP_0192,,female,Pinkie Pie,General Public,1.22,Australia
+RESP_0987,20,Female,Princess Celestia,General Public,76.29,UK
+RESP_1014,8,Prefer not to say,Spike,Child/Parent Collection,36.21,Japan
+RESP_1018,26,Prefer not to say,Princess Luna,Brony,245.95,United Kingdom
+RESP_0963,5,Male,Spike,Child/Parent Collection,174.4,Australia
+RESP_0645,16,female,Derpy Hooves,General Public,31.23,United States
+RESP_0360,11,Female,Pinkie Pie,Casual Fan,3.78,United States
+RESP_1201,9,Non-binary,Spike,Child/Parent Collection,50.66,Australia
+RESP_1495,30,Non-binary,Princess Luna,Child/Parent Collection,96.7,UK
+RESP_0017,25,Prefer not to say,Starlight Glimmer,Casual Fan,28.47,Japan
+RESP_0334,250,Prefer not to say,Fluttershy,Brony,141.56,Canada
+RESP_1243,34,NB,Big McIntosh,Child/Parent Collection,41.83,Canada
+RESP_0583,17,Unknown,Fluttershy,General Public,12.28,USA
+RESP_1463,22,Prefer not to say,Pinkie Pie,General Public,28.67,Canada
+RESP_1313,27,male,Rarity,Brony,,United States
+RESP_0840,40,Prefer not to say,Spike,Child/Parent Collection,36.97,UK
+RESP_0628,26,female,Rarity,Brony,426.87,USA
+RESP_1432,23,Non-binary,Princess Celestia,General Public,25.77,UK
+RESP_0324,22,Prefer not to say,Trixie Lulamoon,Casual Fan,17.33,USA
+RESP_0825,17,Unknown,,Casual Fan,87.97,Australia
+RESP_1263,250,Female,Derpy Hooves,Brony,306.0,United Kingdom
+RESP_0632,22,Non-binary,Rarity,Casual Fan,20.42,Germany
+RESP_1372,6,Male,Rarity,Child/Parent Collection,78.26,United States
+RESP_1212,15,male,Apple Jack,General Public,23.0,Germany
+RESP_0779,14,Male,Princess Celestia,Casual Fan,22.3,Australia
+RESP_1068,12,Non-binary,Twilight Sparkle,Casual Fan,143.53,Canada
+RESP_0940,8,Prefer not to say,Sunset Shimmer,Child/Parent Collection,94.34,Japan
+RESP_0856,35,female,Fluttershy,Child/Parent Collection,102.73,Japan
+RESP_0438,39,Male,Rarity,Child/Parent Collection,137.06,UK
+RESP_0120,10,Prefer not to say,Fluttershy,Child/Parent Collection,85.89,Australia
+RESP_1088,30,Male,Flutershy,Child/Parent Collection,18.02,
+RESP_1045,30,male,Discord,Child/Parent Collection,123.1,USA
+RESP_1199,9,Prefer not to say,Applejack,Brony,69.52,Japan
+RESP_0791,33,Male,Starlight Glimmer,Child/Parent Collection,204.6,United States
+RESP_0342,15,Non-binary,Fluttershy,Casual Fan,29.59,USA
+RESP_0816,7,Female,Twilight Sparkle,Casual Fan,44.42,UK
+RESP_0003,30,Prefer not to say,Twilight Sparkle,Brony,261.14,USA
+RESP_0230,25,Prefer not to say,Derpy,Brony,316.52,Germany
+RESP_1157,35,female,Spike,General Public,44.19,Germany
+RESP_1484,16,Female,Princess Luna,Casual Fan,,UK
+RESP_0077,18,Female,Big McIntosh,General Public,41.53,Japan
+RESP_1426,24,Male,Derpy Hooves,Brony,312.96,United Kingdom
+RESP_0901,23,Male,Fluttershy,General Public,17.68,Germany
+RESP_1245,16,Prefer not to say,,Casual Fan,46.8,
+RESP_0372,24,Female,Big McIntosh,General Public,24.44,United States
+RESP_0181,12,Female,Princess Luna,General Public,36.09,UK
+RESP_1107,15,Female,Princess Celestia,Casual Fan,12.04,Germany
+RESP_1269,30,Non-binary,Spike,Brony,135.46,USA
+RESP_0942,41,male,Big McIntosh,Child/Parent Collection,25.99,United States
+RESP_0578,31,Non-binary,Big McIntosh,Brony,222.89,UK
+RESP_0820,22,,Trixie Lulamoon,Brony,143.49,
+RESP_1126,22,Unknown,Princess Celestia,Brony,152.36,Australia
+RESP_1154,9,Non-binary,Derpy Hooves,Casual Fan,86.61,UK
+RESP_1327,15,Prefer not to say,Pinkie Pie,Brony,225.93,United Kingdom
+RESP_0887,14,Female,Pinkie Pie,Casual Fan,9.96,USA
+RESP_0969,26,male,Rarity,Casual Fan,24.68,United Kingdom
+RESP_0786,18,Non-binary,Spike,General Public,41.17,USA
+RESP_1181,24,male,Rarity,General Public,28.16,Australia
+RESP_1237,38,Female,Sunset Shimmer,General Public,14.85,United States
+RESP_0302,16,Non-binary,Rainbow Dash,Casual Fan,39.36,
+RESP_0690,27,Female,Discord,Casual Fan,36.01,Japan
+RESP_0813,31,Female,Rainbow Dash,General Public,18.08,
+RESP_0237,26,M,Fluttershy,Casual Fan,11.06,UK
+RESP_1043,11,Female,Sunset Shimmer,Child/Parent Collection,66.52,UK
+RESP_0500,32,Female,Pinkie Pie,Child/Parent Collection,83.63,Australia
+RESP_1275,5,Female,Derpy Hooves,Child/Parent Collection,178.57,Canada
+RESP_0795,24,Prefer not to say,Discord,Brony,146.05,United Kingdom
+RESP_1175,34,Female,Fluttershy,Child/Parent Collection,71.19,Germany
+RESP_0991,20,Non-binary,Big McIntosh,Brony,196.56,United Kingdom
+RESP_1055,43,Female,Big McIntosh,Child/Parent Collection,58.23,Canada
+RESP_0935,30,NB,Derpy Hooves,Brony,316.58,Germany
+RESP_0388,35,Unknown,Trixie Lulamoon,Child/Parent Collection,15.87,
+RESP_0391,29,Female,Applejack,Brony,278.51,Japan
+RESP_0744,19,Non-binary,Trixie Lulamoon,Casual Fan,29.7,Japan
+RESP_0353,23,Male,Rainbow Dash,Brony,190.71,United Kingdom
+RESP_0236,30,,Big McIntosh,Casual Fan,17.34,United Kingdom
+RESP_1310,11,Prefer not to say,Rarity,General Public,9.0,UK
+RESP_0481,36,Male,Starlight Glimmer,Child/Parent Collection,71.26,United Kingdom
+RESP_0568,20,Female,Derpy Hooves,General Public,33.57,United States
+RESP_1294,29,female,Princess Celestia,Brony,93.05,UK
+RESP_1430,28,Male,Apple Jack,Casual Fan,65.0,UK
+RESP_1202,30,Prefer not to say,Twilight Sparkle,General Public,16.89,United States
+RESP_0121,24,Non-binary,Spike,General Public,21.29,Germany
+RESP_1324,33,Male,,Child/Parent Collection,32.66,United Kingdom
+RESP_1025,34,F,Trixie Lulamoon,Casual Fan,21.01,United Kingdom
+RESP_0927,16,Male,Starlight Glimmer,Brony,193.44,
+RESP_0516,30,Prefer not to say,Starlight Glimmer,Child/Parent Collection,127.12,United States
+RESP_0224,17,Female,Derpy Hooves,General Public,20.46,Australia
+RESP_1133,,Prefer not to say,Big McIntosh,Casual Fan,13.71,Japan
+RESP_0614,35,Female,Twilight Sparkle,Child/Parent Collection,10.31,United States
+RESP_0844,18,Prefer not to say,Princess Luna,General Public,49.41,Canada
+RESP_0053,7,Non-binary,Twilight Sparkle,Child/Parent Collection,25.54,USA
+RESP_1414,23,Prefer not to say,Trixie Lulamoon,Brony,450.55,United States
+RESP_0486,31,Female,Spike,Brony,284.39,USA
+RESP_1467,12,Non-binary,Spike,General Public,6.6,Canada
+RESP_0819,8,Prefer not to say,Starlight Glimmer,Child/Parent Collection,89.79,United Kingdom
+RESP_0156,10,Female,Spike,Child/Parent Collection,122.13,United Kingdom
+RESP_0601,34,Male,Princess Luna,Child/Parent Collection,181.92,UK
+RESP_1232,15,Non-binary,,General Public,36.4,UK
+RESP_0249,25,Male,Applejack,Brony,,Australia
+RESP_0762,26,Male,,General Public,33.04,Canada
+RESP_1402,4,Female,Derpy Hooves,General Public,25.92,Australia
+RESP_0543,4,Non-binary,Princess Luna,Child/Parent Collection,75.75,United States
+RESP_0794,36,Prefer not to say,Applejack,Child/Parent Collection,107.41,UK
+RESP_1117,17,Female,Spike,Casual Fan,10.9,Canada
+RESP_0629,29,Female,Rarity,Brony,191.64,USA
+RESP_0151,45,Non-binary,Pinkie Pie,Child/Parent Collection,45.51,USA
+RESP_0292,4,Non-binary,Trixie Lulamoon,Child/Parent Collection,108.13,Japan
+RESP_0382,3,Prefer not to say,Rarity,General Public,50.52,Australia
+RESP_0687,999,Non-binary,Princess Celestia,General Public,17.0,Canada
+RESP_0898,36,Female,Princess Celestia,Child/Parent Collection,223.0,United States
+RESP_0855,21,Female,Starlight Glimmer,General Public,25.81,Canada
+RESP_1072,22,Prefer not to say,Derpy Hooves,Brony,125.23,United Kingdom
+RESP_1285,,male,Sunset Shimmer,Casual Fan,17.12,USA
+RESP_1172,,Non-binary,Trixie Lulamoon,General Public,15.71,Germany
+RESP_1299,0,Female,Trixie Lulamoon,Brony,140.97,United Kingdom
+RESP_0892,34,Non-binary,,Child/Parent Collection,36.27,UK
+RESP_0340,22,Non-binary,Discord,Brony,125.83,Canada
+RESP_0616,23,Prefer not to say,Sunset Shimmer,Brony,81.58,Canada
+RESP_0155,12,Prefer not to say,Trixie Lulamoon,Casual Fan,35.79,Japan
+RESP_1086,10,female,Princess Luna,Child/Parent Collection,89.22,Germany
+RESP_0323,6,Non-binary,Discord,Child/Parent Collection,134.05,Japan
+RESP_1187,,NB,Twilight Sparkle,Brony,154.52,Canada
+RESP_0083,20,Non-binary,Princess Celestia,General Public,8.76,Australia
+RESP_0513,8,,Pinkie Pie,Child/Parent Collection,81.39,Germany
+RESP_1171,11,Male,Trixie Lulamoon,Child/Parent Collection,142.41,UK
+RESP_0930,8,Prefer not to say,Discord,Casual Fan,14.41,USA
+RESP_1387,20,Non-binary,Starlight,General Public,7.39,Australia
+RESP_0011,20,Male,Big McIntosh,Brony,139.43,United States
+RESP_0832,9,F,Discord,Casual Fan,28.51,Germany
+RESP_0033,31,Non-binary,Sunset Shimmer,Casual Fan,16.25,Germany
+RESP_0414,29,Prefer not to say,fluttershy,Casual Fan,4.18,Japan
+RESP_0581,42,Female,,Child/Parent Collection,27.92,United States
+RESP_1189,40,Female,Applejack,Child/Parent Collection,26.38,UK
+RESP_1460,19,Prefer not to say,Fluttershy,General Public,9.62,Germany
+RESP_0615,27,Non-binary,Rarity,Brony,208.84,USA
+RESP_1046,7,Prefer not to say,Rarity,Child/Parent Collection,113.91,Japan
+RESP_1015,43,Male,Spike,Child/Parent Collection,113.07,USA
+RESP_0090,26,Non-binary,Starlight Glimmer,Casual Fan,28.33,USA
+RESP_1305,14,Female,Spike,Casual Fan,3.87,Germany
+RESP_0602,23,Female,,Brony,71.76,UK
+RESP_0134,16,Prefer not to say,Starlight Glimmer,General Public,29.16,Canada
+RESP_0556,29,Male,Fluttershy,Brony,136.4,United States
+RESP_1032,9,Female,Applejack,Child/Parent Collection,132.02,Japan
+RESP_1260,12,F,Twilight Sparkle,Child/Parent Collection,103.63,Germany
+RESP_0321,25,Prefer not to say,rainbow dash,Casual Fan,25.92,Australia
+RESP_1355,43,Female,Rainbow Dash,Child/Parent Collection,107.24,Australia
+RESP_1332,7,Male,Derpy Hooves,Child/Parent Collection,75.3,United Kingdom
+RESP_0635,19,Female,Discord,General Public,10.49,Japan
+RESP_0553,25,Non-binary,Derpy Hooves,General Public,38.7,Germany
+RESP_1056,26,Female,Big McIntosh,Brony,200.76,Canada
+RESP_1196,18,Non-binary,Applejack,General Public,20.77,Australia
+RESP_0797,20,Female,Discord,Brony,200.14,United States
+RESP_1280,10,Prefer not to say,Starlight Glimmer,General Public,54.12,United States
+RESP_1362,11,Non-binary,Starlight Glimmer,Brony,200.59,UK
+RESP_0175,33,NB,Derpy Hooves,Casual Fan,6.67,Japan
+RESP_0767,0,Male,Sunset Shimmer,General Public,19.03,United States
+RESP_0246,29,Prefer not to say,Big McIntosh,Brony,203.01,Germany
+RESP_1081,16,Male,Fluttershy,Casual Fan,,United States
+RESP_1331,33,Prefer not to say,Starlight Glimmer,Child/Parent Collection,108.41,UK
+RESP_0146,23,Male,Princess Celestia,Casual Fan,26.07,Japan
+RESP_0091,36,Non-binary,Trixie Lulamoon,Child/Parent Collection,44.97,Japan
+RESP_0683,4,Male,Spike,Child/Parent Collection,38.26,United States
+RESP_0311,26,Non-binary,Spike,General Public,27.68,Japan
+RESP_0094,30,Male,Princess Luna,Brony,198.0,Canada
+RESP_1429,6,F,Big McIntosh,Child/Parent Collection,69.58,USA
+RESP_0925,17,Male,Derpy Hooves,Casual Fan,16.11,Canada
+RESP_1298,250,Male,Big McIntosh,General Public,57.18,United States
+RESP_1036,28,NB,Spike,Casual Fan,36.91,United States
+RESP_0244,26,Prefer not to say,Sunset Shimmer,Brony,206.04,United Kingdom
+RESP_1112,24,Male,Princess Luna,General Public,10.44,UK
+RESP_0215,28,Non-binary,Princess Celestia,Brony,141.12,
+RESP_0999,21,Male,Pinkie Pie,General Public,19.63,USA
+RESP_0854,33,Male,Pinky Pie,Brony,91.91,United States
+RESP_0426,,Prefer not to say,Spike,Brony,133.34,Japan
+RESP_0434,30,Prefer not to say,Rarity,Child/Parent Collection,94.33,Japan
+RESP_1143,10,Female,Starlight Glimmer,Casual Fan,23.95,Canada
+RESP_1144,11,Female,Discord,Child/Parent Collection,106.18,UK
+RESP_0227,22,Female,Rainbow Dash,General Public,20.99,United Kingdom
+RESP_1253,3,Prefer not to say,Trixie Lulamoon,General Public,21.58,Canada
+RESP_0001,25,female,Princess Celestia,Brony,174.97,Canada
+RESP_0402,33,Non-binary,Spike,Child/Parent Collection,86.03,USA
+RESP_1104,37,F,Princess Luna,Child/Parent Collection,189.02,Canada
+RESP_0085,4,Male,Fluttershy,Child/Parent Collection,29.71,Germany
+RESP_0163,16,Non-binary,Big McIntosh,Casual Fan,39.11,UK
+RESP_0115,21,Female,Starlight Glimmer,General Public,15.24,Australia
+RESP_0671,22,Female,Starlight Glimmer,Casual Fan,39.83,Australia
+RESP_1173,16,Non-binary,Derpy Hooves,Brony,153.32,Australia
+RESP_0890,29,Female,Applejack,Casual Fan,55.99,United States
+RESP_0626,32,Female,Trixie Lulamoon,Child/Parent Collection,103.35,Japan
+RESP_0423,29,Prefer not to say,Trixie Lulamoon,General Public,33.15,United Kingdom
+RESP_0953,19,Male,Rainbow Dash,Brony,376.16,Canada
+RESP_0808,21,Unknown,Princess Luna,General Public,29.15,UK
+RESP_0259,23,Unknown,Fluttershy,Brony,,Germany
+RESP_0625,16,Female,Fluttershy,Brony,181.7,Germany
+RESP_0827,45,Prefer not to say,Rainbow Dash,Child/Parent Collection,120.59,United States
+RESP_0235,999,Non-binary,rarity,Brony,145.97,UK
+RESP_0136,21,Non-binary,Twilight Sparkle,General Public,54.68,Japan
+RESP_0617,15,Prefer not to say,Princess Celestia,General Public,9.07,Germany
+RESP_0837,24,Male,Princess Celestia,Casual Fan,26.01,UK
+RESP_0843,35,Female,Spike,Child/Parent Collection,115.54,Australia
+RESP_0960,38,Prefer not to say,Starlight Glimmer,Child/Parent Collection,144.92,Japan
+RESP_0593,5,Female,Starlight Glimmer,Child/Parent Collection,148.07,Canada
+RESP_0344,30,Prefer not to say,Fluttershy,General Public,8.86,UK
+RESP_1269,30,Non-binary,Spike,Brony,135.46,USA
+RESP_0294,25,Female,Derpy Hooves,Brony,117.72,Germany
+RESP_0365,18,Female,rarity,Casual Fan,9.98,UK
+RESP_0179,22,Non-binary,Sunset Shimmer,Casual Fan,10.86,USA
+RESP_0660,16,Female,Twilight Sparkle,Casual Fan,71.14,USA
+RESP_0997,12,Non-binary,Fluttershy,Casual Fan,39.85,Canada
+RESP_0015,37,female,Rarity,Child/Parent Collection,30.98,USA
+RESP_1111,29,Male,Applejack,Casual Fan,28.95,UK
+RESP_0166,45,Female,Derpy Hooves,Child/Parent Collection,160.34,USA
+RESP_1443,21,female,Pinky Pie,Brony,245.51,Germany
+RESP_0060,26,Male,Sunset Shimmer,Brony,322.96,Canada
+RESP_0710,7,Non-binary,Rainbow Dash,Casual Fan,44.8,Japan
+RESP_0677,16,Male,Derpy Hooves,Casual Fan,28.99,Australia
+RESP_0781,22,NB,Applejack,Brony,66.19,Japan
+RESP_0425,21,Male,Starlight Glimmer,Brony,170.21,UK
+RESP_0293,19,Female,Fluttershy,Brony,88.13,Canada
+RESP_1066,44,Female,Princess Celestia,Child/Parent Collection,108.46,USA
+RESP_1106,12,Male,Flutershy,Casual Fan,33.62,Germany
+RESP_0330,19,Male,Princess Celestia,Brony,201.42,UK
+RESP_0430,33,Male,Princess Celestia,Child/Parent Collection,98.2,Japan
+RESP_1013,,female,Sunset Shimmer,Child/Parent Collection,116.35,UK
+RESP_0080,7,Non-binary,Applejack,General Public,11.01,United States
+RESP_1053,24,M,Princess Luna,Brony,199.47,
+RESP_0938,27,Non-binary,Rainbow Dash,General Public,50.34,UK
+RESP_0835,14,Male,Trixie Lulamoon,General Public,12.52,USA
+RESP_0750,11,Female,Rarity,Casual Fan,11.61,Canada
+RESP_0891,12,Non-binary,Trixie Lulamoon,Casual Fan,17.1,Japan
+RESP_0255,40,Non-binary,,Child/Parent Collection,72.54,Japan
+RESP_1329,15,Prefer not to say,Princess Celestia,Casual Fan,34.63,United Kingdom
+RESP_1369,15,Prefer not to say,Fluttershy,Casual Fan,,Canada
+RESP_1109,11,Non-binary,Discord,General Public,29.52,Australia
+RESP_0137,6,Non-binary,Spike,Child/Parent Collection,58.82,Canada
+RESP_1136,15,Male,Trixie Lulamoon,Brony,272.29,United Kingdom
+RESP_0853,20,Non-binary,Trixie Lulamoon,Casual Fan,31.99,UK
+RESP_1203,33,Female,Fluttershy,General Public,51.99,Japan
+RESP_0724,4,Male,Big McIntosh,General Public,42.04,UK
+RESP_0860,10,Female,Spike,Casual Fan,19.41,UK
+RESP_0970,6,Female,Princess Luna,Child/Parent Collection,58.19,Japan
+RESP_0497,12,Prefer not to say,Twilight Sparkle,General Public,,USA
+RESP_0951,25,Female,Spike,Casual Fan,32.62,United Kingdom
+RESP_0806,27,Female,Starlight,Casual Fan,,Germany
+RESP_0130,26,Non-binary,Sunset Shimmer,Brony,132.54,Germany
+RESP_0338,19,Prefer not to say,Twilight Sparkle,Brony,155.13,Canada
+RESP_0611,22,Prefer not to say,Princess Luna,Casual Fan,20.96,United States
+RESP_0609,,Non-binary,Princess Luna,Child/Parent Collection,95.71,USA
+RESP_1149,21,Female,,Brony,242.83,Canada
+RESP_0196,32,Prefer not to say,Fluttershy,Child/Parent Collection,44.37,Japan
+RESP_0608,26,Non-binary,Spike,Casual Fan,10.22,USA
+RESP_0910,23,Non-binary,Big McIntosh,Brony,135.22,Canada
+RESP_0585,27,Prefer not to say,rarity,Brony,372.87,Germany
+RESP_0104,16,Non-binary,Spike,General Public,20.68,United Kingdom
+RESP_1420,20,Non-binary,Pinkie Pie,Casual Fan,22.2,United Kingdom
+RESP_1434,28,Unknown,Rarityy,General Public,22.06,United Kingdom
+RESP_0720,23,Non-binary,Rainbow Dash,General Public,39.46,Germany
+RESP_0885,7,Prefer not to say,Discord,Child/Parent Collection,76.07,UK
+RESP_0777,25,F,Sunset,Brony,184.38,United Kingdom
+RESP_0850,13,Prefer not to say,Starlight,Brony,88.68,Germany
+RESP_0895,23,Non-binary,Discord,Casual Fan,15.52,Japan
+RESP_0228,,Prefer not to say,Trixie Lulamoon,Casual Fan,26.9,
+RESP_1445,25,Non-binary,Rarity,Brony,251.76,Australia
+RESP_0127,6,Non-binary,Rainbow Dash,Child/Parent Collection,144.35,USA
+RESP_0406,36,Female,Trixie Lulamoon,Casual Fan,52.25,Australia
+RESP_0776,26,Prefer not to say,Trixie Lulamoon,General Public,38.11,Germany
+RESP_0822,23,Prefer not to say,Princess Celestia,Brony,167.6,USA
+RESP_0712,27,Prefer not to say,Discord,General Public,27.91,Canada
+RESP_1449,19,Non-binary,Pinkie Pie,General Public,17.2,Japan
+RESP_1061,11,Male,Spike,Child/Parent Collection,219.81,UK
+RESP_1164,4,male,Discord,General Public,11.77,United Kingdom
+RESP_0304,32,Non-binary,Twilight Sparkle,Child/Parent Collection,,Australia
+RESP_0268,,Non-binary,Pinkie Pie,General Public,35.62,Australia
+RESP_0546,21,Male,Spike,General Public,35.01,Germany
+RESP_0213,250,Male,Princess Luna,Child/Parent Collection,93.85,United States
+RESP_0897,27,Female,Pinkie Pie,General Public,44.01,United States
+RESP_1223,42,Prefer not to say,Sunset Shimmer,Child/Parent Collection,5.38,United Kingdom
+RESP_0917,16,Unknown,Princess Luna,Brony,192.76,Japan
+RESP_0676,12,Prefer not to say,Fluttershy,Child/Parent Collection,120.03,UK
+RESP_0815,17,NB,Princess Luna,General Public,32.76,Germany
+RESP_0343,33,Prefer not to say,Discord,Child/Parent Collection,44.49,Germany
+RESP_0550,30,Male,Applejack,Casual Fan,56.2,United States
+RESP_1215,23,Male,Princess Luna,Brony,179.06,UK
+RESP_0967,7,Male,Trixie Lulamoon,Child/Parent Collection,129.93,United Kingdom
+RESP_1231,24,Prefer not to say,Sunset Shimmer,General Public,6.0,Japan
+RESP_0296,11,Prefer not to say,Rainbow Dash,Child/Parent Collection,21.17,Australia
+RESP_0696,26,M,Discord,General Public,20.53,Germany
+RESP_0074,41,Male,Big McIntosh,Casual Fan,10.6,UK
+RESP_0606,19,Female,Derpy Hooves,Casual Fan,77.42,Germany
+RESP_0105,12,Non-binary,Trixie Lulamoon,Child/Parent Collection,211.22,United States
+RESP_0646,26,Prefer not to say,Rainbow Dash,Casual Fan,89.99,USA
+RESP_0862,999,Male,Princess Luna,Casual Fan,7.76,Australia
+RESP_1041,45,Non-binary,Sunset Shimmer,Child/Parent Collection,118.1,
+RESP_0440,29,Prefer not to say,Spike,General Public,9.28,United Kingdom
+RESP_1020,13,Male,Apple Jack,Casual Fan,13.48,United States
+RESP_0092,5,Male,Sunset Shimmer,General Public,32.58,Japan
+RESP_1113,5,Non-binary,Big McIntosh,Child/Parent Collection,101.73,UK
+RESP_1346,6,Female,Big McIntosh,General Public,27.39,United States
+RESP_0909,21,Female,Twilight Sparkle,General Public,60.25,Australia
+RESP_0103,43,male,Princess Celestia,Child/Parent Collection,26.26,
+RESP_0239,13,Non-binary,Spike,Casual Fan,7.81,UK
+RESP_1309,15,Male,Pinkie Pie,Casual Fan,4.52,Canada
+RESP_0943,24,Prefer not to say,Spike,Casual Fan,22.93,UK
+RESP_1271,35,female,Trixie Lulamoon,Child/Parent Collection,81.22,United Kingdom
+RESP_0939,22,Non-binary,applejack,General Public,21.06,Germany
+RESP_1182,,Non-binary,Spike,General Public,14.67,Australia
+RESP_0006,35,Non-binary,Applejack,Child/Parent Collection,127.03,UK
+RESP_1394,17,Male,Sunset,General Public,34.79,Japan
+RESP_0966,23,Male,Trixie Lulamoon,Brony,143.09,Australia
+RESP_0019,42,Male,Pinkie Pie,Child/Parent Collection,59.49,Japan
+RESP_0122,5,female,Fluttershy,Child/Parent Collection,182.74,United Kingdom
+RESP_0662,5,female,Rainbow Dash,Child/Parent Collection,,United Kingdom
+RESP_1297,21,NB,Big McIntosh,Brony,173.54,United States
+RESP_0275,34,Non-binary,Fluttershy,Child/Parent Collection,40.11,United States
+RESP_0434,30,Prefer not to say,Rarity,Child/Parent Collection,94.33,Japan
+RESP_0812,34,Prefer not to say,Rainbow Dash,Child/Parent Collection,59.79,Germany
+RESP_1435,10,Female,Spike,General Public,25.48,Australia
+RESP_1450,19,Female,Applejack,Brony,62.99,Japan
+RESP_0182,13,Non-binary,Sunset Shimmer,General Public,15.66,Canada
+RESP_0185,14,Female,Applejack,Casual Fan,29.38,Germany
+RESP_0407,19,Male,Starlight Glimmer,General Public,4.84,United Kingdom
+RESP_0866,17,Female,Starlight Glimmer,General Public,14.44,
+RESP_0521,37,Male,Trixie Lulamoon,Child/Parent Collection,52.32,United States
+RESP_1004,29,Female,Applejack,Brony,166.77,UK
+RESP_0381,11,Male,,Child/Parent Collection,59.82,Germany
+RESP_0428,20,Non-binary,Derpy Hooves,Brony,187.47,United States
+RESP_0079,8,Female,Princess Luna,Child/Parent Collection,45.27,United Kingdom
+RESP_1010,9,Non-binary,Discord,General Public,5.96,Australia
+RESP_1383,4,Non-binary,Rarity,Child/Parent Collection,127.71,USA
+RESP_0608,26,Non-binary,Spike,Casual Fan,10.22,USA
+RESP_1367,22,Unknown,Trixie Lulamoon,General Public,91.51,Canada
+RESP_1235,17,Female,Derpy Hooves,Brony,274.95,Japan
+RESP_1400,12,Male,Trixie Lulamoon,General Public,19.89,United Kingdom
+RESP_1058,28,male,Sunset Shimmer,Brony,238.27,Germany
+RESP_1092,4,Non-binary,Trixie Lulamoon,Child/Parent Collection,20.72,Japan
+RESP_1102,20,Female,Rarityy,Brony,218.09,Canada
+RESP_1130,250,Female,Rarity,General Public,42.74,Canada
+RESP_1236,5,Male,Princess Celestia,Child/Parent Collection,207.28,Canada
+RESP_1353,28,Female,Princess Luna,Casual Fan,44.35,Japan
+RESP_0959,22,Female,Sunset Shimmer,Brony,138.09,Canada
+RESP_0560,11,Prefer not to say,Applejack,Casual Fan,2.98,UK
+RESP_0847,23,Male,Applejack,Brony,,UK
+RESP_0691,25,Non-binary,Princess Celestia,Casual Fan,121.51,United States
+RESP_1273,25,Male,Sunset Shimmer,Brony,195.36,Germany
+RESP_1433,9,female,Pinkie Pie,General Public,7.74,Australia
+RESP_0437,21,Non-binary,Pinkie Pie,General Public,32.75,Germany
+RESP_0491,26,Female,Sunset Shimmer,Brony,216.74,Canada
+RESP_1042,17,Male,Sunset Shimmer,Casual Fan,40.37,Australia
+RESP_1411,20,male,Sunset Shimmer,Brony,141.98,Canada
+RESP_0070,9,Female,,Casual Fan,12.83,Australia
+RESP_0809,21,Male,Princess Celestia,Brony,174.87,USA
+RESP_1185,21,F,Apple Jack,Brony,126.8,USA
+RESP_0012,17,Non-binary,Trixie Lulamoon,General Public,9.98,Australia
+RESP_0145,21,Non-binary,rainbow dash,Casual Fan,25.24,UK
+RESP_0918,14,Male,Derpy Hooves,General Public,9.89,UK
+RESP_0640,16,Female,Rarity,General Public,58.92,Australia
+RESP_0177,23,Non-binary,Trixie Lulamoon,Casual Fan,24.37,Japan
+RESP_0995,11,Non-binary,Starlight Glimmer,Casual Fan,26.7,Germany
+RESP_0441,33,F,Sunset Shimmer,Casual Fan,31.33,Japan
+RESP_0522,22,,Twilight Sparkle,Casual Fan,12.57,Germany
+RESP_0052,,Prefer not to say,Pinkie Pie,Child/Parent Collection,55.34,United Kingdom
+RESP_1005,30,Prefer not to say,Apple Jack,Brony,125.72,United Kingdom
+RESP_1256,18,Female,Discord,Brony,203.09,Australia
+RESP_1235,17,Female,Derpy Hooves,Brony,274.95,Japan
+RESP_0144,38,Non-binary,Rarity,Child/Parent Collection,61.91,United States
+RESP_0754,33,Female,fluttershy,Child/Parent Collection,92.3,Canada
+RESP_0520,24,Non-binary,Trixie Lulamoon,General Public,3.82,United States
+RESP_1323,14,Non-binary,Starlight Glimmer,General Public,17.98,United Kingdom
+RESP_0823,18,Prefer not to say,Starlight Glimmer,Brony,262.39,USA
+RESP_0429,44,M,Big McIntosh,Child/Parent Collection,133.81,Japan
+RESP_0613,15,Prefer not to say,Big McIntosh,Casual Fan,24.73,Germany
+RESP_1033,,Male,Rainbow Dash,Child/Parent Collection,35.12,United Kingdom
+RESP_0157,31,Non-binary,Princess Luna,Casual Fan,55.5,United States
+RESP_0540,31,Female,Big McIntosh,Brony,120.82,UK
+RESP_1291,15,Prefer not to say,Twilight Sparkle,General Public,12.03,USA
+RESP_0462,13,Male,Spike,Casual Fan,10.37,USA
+RESP_0577,29,Male,Spike,Brony,152.46,Germany
+RESP_0256,17,Female,Big McIntosh,Brony,234.97,United States
+RESP_0980,42,Prefer not to say,Pinkie Pie,Child/Parent Collection,30.07,UK
+RESP_1186,28,Non-binary,Trixie Lulamoon,Brony,321.37,USA
+RESP_1007,27,Male,Twilight Sparkle,Casual Fan,15.0,USA
+RESP_0561,24,NB,Big McIntosh,Casual Fan,27.97,Japan
+RESP_0209,14,Unknown,Big McIntosh,Casual Fan,37.76,Japan
+RESP_0911,18,Prefer not to say,Princess Luna,Casual Fan,30.58,Germany
+RESP_1312,28,NB,Fluttershy,Brony,68.27,Germany
+RESP_0002,11,Male,Pinkie Pie,Casual Fan,31.7,United States
+RESP_0270,19,Non-binary,Trixie Lulamoon,Brony,130.54,Germany
+RESP_0266,21,M,Princess Celestia,Brony,174.01,USA
+RESP_0915,7,M,Fluttershy,Child/Parent Collection,99.9,United States
+RESP_0231,4,Prefer not to say,Trixie Lulamoon,Child/Parent Collection,89.24,United Kingdom
+RESP_1492,,Female,Rarity,Casual Fan,6.64,Canada
+RESP_1120,19,Unknown,Trixie Lulamoon,Casual Fan,8.09,Japan
+RESP_1433,9,female,Pinkie Pie,General Public,7.74,Australia
+RESP_0865,19,Female,Princess Luna,Casual Fan,16.71,Australia
+RESP_1067,34,F,applejack,Child/Parent Collection,164.51,United Kingdom
+RESP_0874,32,Male,Discord,Brony,81.5,Canada
+RESP_1377,22,Female,Starlight,Brony,54.18,Japan
+RESP_0399,19,Male,Derpy Hooves,General Public,93.66,UK
+RESP_1403,30,Prefer not to say,Big McIntosh,General Public,42.91,Canada
+RESP_0046,23,M,Starlight Glimmer,General Public,20.31,UK
+RESP_0162,,Prefer not to say,Rainbow Dash,Casual Fan,31.55,United Kingdom
+RESP_0992,23,,Fluttershy,Casual Fan,5.15,Australia
+RESP_0728,21,Female,Spike,Brony,339.94,Canada
+RESP_0630,250,Non-binary,Starlight Glimmer,General Public,12.5,UK
+RESP_0289,27,Male,Spike,Brony,112.67,Japan
+RESP_1060,29,Prefer not to say,Princess Celestia,Casual Fan,55.23,United States
+RESP_1500,21,Female,Derpy Hooves,Casual Fan,20.63,United States
+RESP_0576,35,NB,Applejack,Child/Parent Collection,42.65,Canada
+RESP_0851,12,Non-binary,Rarity,Child/Parent Collection,,Japan
+RESP_1340,16,Female,Sunset,Casual Fan,13.39,USA
+RESP_0912,38,Male,Sunset Shimmer,Child/Parent Collection,14.08,Germany
+RESP_1255,35,Unknown,Princess Luna,General Public,15.85,Australia
+RESP_1396,12,Non-binary,Big McIntosh,Child/Parent Collection,125.4,Canada
+RESP_0933,4,Prefer not to say,Spike,Child/Parent Collection,75.98,Germany
+RESP_1101,6,Male,Sunset Shimmer,Casual Fan,,Japan
+RESP_1208,22,Prefer not to say,Rainbow Dash,General Public,12.0,Australia
+RESP_0248,22,Female,Fluttershy,Brony,503.19,UK
+RESP_0477,42,Non-binary,Applejack,Child/Parent Collection,55.57,Canada
+RESP_0086,18,Non-binary,Derpy Hooves,Brony,214.23,Australia
+RESP_0470,24,Male,Applejack,General Public,15.38,United Kingdom
+RESP_0226,10,Female,Twilight Sparkle,Child/Parent Collection,63.99,Canada
+RESP_0775,,Prefer not to say,Princess Luna,Casual Fan,43.92,Germany
+RESP_0332,14,Female,Sunset Shimmer,Casual Fan,16.06,Australia
+RESP_0234,30,Male,Princess Luna,Brony,223.61,USA
+RESP_0589,23,female,Discord,Brony,133.31,UK
+RESP_0476,14,Male,Starlight,Casual Fan,43.99,United Kingdom
+RESP_1285,,male,Sunset Shimmer,Casual Fan,17.12,USA
+RESP_0600,21,Female,Rainbow Dash,Brony,401.46,Australia
+RESP_0422,11,,Sunset Shimmer,Child/Parent Collection,,UK
+RESP_0183,19,Unknown,Trixie Lulamoon,General Public,9.83,United Kingdom
+RESP_0989,20,Female,Trixie Lulamoon,General Public,5.55,Australia
+RESP_1001,19,M,Pinkie Pie,Brony,343.92,Germany
+RESP_1357,7,NB,Spike,General Public,35.99,United States
+RESP_0050,12,Prefer not to say,Discord,Casual Fan,63.28,USA
+RESP_1470,10,,Rarity,Child/Parent Collection,107.89,United Kingdom
+RESP_1030,32,Female,rarity,Casual Fan,53.19,Japan
+RESP_0530,29,Non-binary,Rarity,Casual Fan,35.97,Canada
+RESP_1259,25,Non-binary,Princess Luna,Casual Fan,20.64,UK
+RESP_0487,28,Male,Big McIntosh,General Public,37.72,United Kingdom
+RESP_1498,15,Prefer not to say,Discord,Brony,221.59,Australia
+RESP_0498,14,Female,Trixie Lulamoon,Casual Fan,57.39,Germany
+RESP_0107,19,Male,Rarity,Casual Fan,71.81,Germany
+RESP_0444,24,Male,Princess Celestia,Brony,340.17,Japan
+RESP_0647,11,Male,Rarity,General Public,28.9,Canada
+RESP_1037,14,Male,Trixie Lulamoon,Casual Fan,38.05,United States
+RESP_0727,10,Male,Derpy Hooves,Casual Fan,47.36,United States
+RESP_0191,44,Prefer not to say,Princess Luna,General Public,53.55,UK
+RESP_0283,33,M,Starlight Glimmer,Brony,250.99,Germany
+RESP_0030,46,Female,Rarity,Casual Fan,11.08,United States
+RESP_0170,,Prefer not to say,Princess Luna,Casual Fan,66.34,Japan
+RESP_1002,27,Female,Rainbow Dash,Brony,316.18,Japan
+RESP_1205,23,Female,Starlight Glimmer,Casual Fan,3.46,United States
+RESP_0101,31,Male,Discord,Brony,223.89,United States
+RESP_0198,24,female,Starlight Glimmer,Casual Fan,18.21,United States
+RESP_0496,,Female,Starlight Glimmer,Brony,117.88,Germany
+RESP_0648,42,Non-binary,Trixie Lulamoon,Child/Parent Collection,92.41,Canada
+RESP_0988,19,Male,Big McIntosh,Brony,97.67,Canada
+RESP_0045,23,M,Rarity,Brony,490.67,United Kingdom
+RESP_0711,22,Non-binary,Spike,Brony,80.66,Germany
+RESP_0374,41,Female,applejack,Child/Parent Collection,104.71,United Kingdom
+RESP_0679,6,Female,Twilight Sparkle,Child/Parent Collection,131.91,United Kingdom
+RESP_0567,4,Non-binary,Pinkie Pie,Child/Parent Collection,97.07,Japan
+RESP_0848,8,,Rarity,Child/Parent Collection,91.52,USA
+RESP_0461,13,Female,Starlight Glimmer,Casual Fan,19.95,Japan
+RESP_1438,-5,Female,Fluttershy,Brony,241.68,Japan
+RESP_1156,29,Non-binary,Fluttershy,Brony,122.67,Australia
+RESP_0040,3,Male,Spike,General Public,32.31,Japan
+RESP_0435,9,Non-binary,Princess Luna,Child/Parent Collection,52.17,Australia
+RESP_0974,25,Prefer not to say,Trixie Lulamoon,Brony,283.45,USA
+RESP_1240,41,Non-binary,pinkie pie,Child/Parent Collection,103.39,USA
+RESP_1008,45,Non-binary,Sunset Shimmer,Child/Parent Collection,90.8,Japan
+RESP_0457,250,Prefer not to say,Fluttershy,Casual Fan,50.49,UK
+RESP_0261,5,Prefer not to say,Rarity,Child/Parent Collection,78.41,United States
+RESP_0036,29,Male,Rarity,Brony,202.25,United States
+RESP_0828,25,Female,Fluttershy,Casual Fan,38.3,Australia
+RESP_0310,25,Prefer not to say,Fluttershy,Brony,205.19,United Kingdom
+RESP_0277,15,Male,Starlight Glimmer,Casual Fan,51.31,United Kingdom
+RESP_0637,30,Non-binary,Derpy Hooves,Casual Fan,15.53,Canada
+RESP_0655,21,Male,Big McIntosh,Brony,63.56,Australia
+RESP_0623,17,Unknown,Fluttershy,Casual Fan,28.07,Canada
+RESP_0845,19,Female,Sunset Shimmer,General Public,9.28,United States
+RESP_0394,10,Prefer not to say,Twilight Sparkle,Child/Parent Collection,85.74,United Kingdom
+RESP_0108,8,Male,Rainbow Dash,Casual Fan,22.59,Germany
+RESP_0350,23,Non-binary,Derpy Hooves,Brony,133.2,Germany
+RESP_0525,8,Non-binary,Starlight Glimmer,Child/Parent Collection,69.99,Canada
+RESP_0785,13,,,Casual Fan,10.86,USA
+RESP_0048,17,Female,Rainbow Dash,Brony,261.13,United Kingdom
+RESP_0204,3,Prefer not to say,Princess Luna,Casual Fan,40.74,Canada
+RESP_0022,26,Prefer not to say,Starlight Glimmer,Brony,,Japan
+RESP_0403,17,Non-binary,Princess Luna,General Public,4.61,United Kingdom
+RESP_1108,23,Prefer not to say,Rarity,Casual Fan,17.56,UK
+RESP_1155,20,Non-binary,Discord,General Public,10.11,USA
+RESP_1440,37,NB,Big McIntosh,Child/Parent Collection,129.83,Germany
+RESP_0990,41,Non-binary,Twilight Sparkle,Child/Parent Collection,29.71,Germany
+RESP_0742,21,Non-binary,Princess Celestia,Brony,70.16,United Kingdom
+RESP_1311,21,male,Princess Celestia,Brony,443.21,Japan
+RESP_1148,12,Prefer not to say,Starlight Glimmer,General Public,76.4,Japan
+RESP_0034,18,male,,Casual Fan,17.61,Canada
+RESP_0788,23,Female,Starlight,Brony,188.67,Japan
+RESP_0924,17,,Big McIntosh,Casual Fan,7.11,Germany
+RESP_1044,16,NB,Big McIntosh,General Public,39.68,Canada
+RESP_1482,39,Non-binary,Rarity,Child/Parent Collection,33.08,Germany
+RESP_1244,19,Female,Derpy Hooves,Brony,242.05,UK
+RESP_0580,18,Prefer not to say,Trixie Lulamoon,Casual Fan,25.29,UK
+RESP_0482,18,Non-binary,Applejack,General Public,57.0,Japan
+RESP_0932,24,Unknown,Sunset,Brony,192.72,Germany
+RESP_0357,19,Female,Twilight Sparkle,Casual Fan,30.8,UK
+RESP_1249,14,Male,Derpy Hooves,Casual Fan,41.74,Australia
+RESP_0760,34,NB,Sunset Shimmer,General Public,31.45,Canada
+RESP_0093,16,Female,applejack,Casual Fan,52.57,Australia
+RESP_1176,22,Prefer not to say,Pinky Pie,Casual Fan,85.28,United States
+RESP_1416,29,Non-binary,Applejack,General Public,7.7,Australia
+RESP_1342,7,Prefer not to say,Princess Luna,Child/Parent Collection,213.59,Canada
+RESP_1473,10,Prefer not to say,Applejack,General Public,7.64,USA
+RESP_0804,22,Male,Princess Luna,Brony,415.6,UK
+RESP_0746,6,Non-binary,Twilight Sparkle,Child/Parent Collection,25.79,Germany
+RESP_0280,34,Prefer not to say,Applejack,General Public,15.86,United States
+RESP_0765,14,NB,fluttershy,General Public,29.95,Canada
+RESP_0605,11,Female,Discord,Casual Fan,24.01,United States
+RESP_0433,5,Male,Pinkie Pie,Child/Parent Collection,115.9,Japan
+RESP_1374,19,Non-binary,Fluttershy,General Public,20.84,
+RESP_1399,26,Female,Princess Luna,General Public,51.48,Canada
+RESP_0401,26,Non-binary,Trixie Lulamoon,General Public,25.74,USA
+RESP_0258,20,Female,Derpy Hooves,Casual Fan,28.19,Australia
+RESP_0945,12,Prefer not to say,Princess Luna,Child/Parent Collection,39.72,USA
+RESP_1097,27,Prefer not to say,Princess Luna,Brony,163.59,USA
+RESP_1220,29,Non-binary,Discord,Brony,164.37,USA
+RESP_1162,20,,Applejack,General Public,21.11,Australia
+RESP_0495,20,Male,Applejack,Casual Fan,14.0,United States
+RESP_0773,20,Prefer not to say,Applejack,Brony,281.73,United Kingdom
+RESP_0551,19,Male,Fluttershy,Brony,150.31,Australia
+RESP_1487,32,Male,Pinkie Pie,Casual Fan,44.71,Canada
+RESP_0202,16,male,Pinkie Pie,Casual Fan,14.73,United States
+RESP_0313,29,NB,Princess Luna,Casual Fan,23.47,Japan
+RESP_0291,,Prefer not to say,Trixie Lulamoon,Child/Parent Collection,32.26,Canada
+RESP_1214,11,Male,Big McIntosh,Child/Parent Collection,71.39,UK
+RESP_0764,28,Non-binary,Rarity,Casual Fan,11.24,Canada
+RESP_1137,16,Female,Applejack,General Public,31.98,Australia
+RESP_0950,19,Female,Rarity,General Public,7.4,Canada
+RESP_0184,-5,Male,Starlight Glimmer,General Public,1.73,United Kingdom
+RESP_1177,31,Prefer not to say,Rainbow Dash,Child/Parent Collection,9.53,Japan
+RESP_1350,22,Prefer not to say,Fluttershy,Brony,196.37,Japan
+RESP_1069,21,Female,Twiligh Sparkle,Casual Fan,8.68,Japan
+RESP_1469,40,Female,,Child/Parent Collection,43.75,Australia
+RESP_1031,-5,Male,Trixie Lulamoon,Brony,107.32,Germany
+RESP_0251,11,Female,Big McIntosh,Brony,95.92,United Kingdom
+RESP_0824,10,female,Spike,Brony,185.01,Canada
+RESP_1100,20,Non-binary,Trixie Lulamoon,Brony,291.24,United States
+RESP_0941,13,Non-binary,Sunset Shimmer,Casual Fan,74.3,Japan
+RESP_0392,34,Non-binary,Sunset Shimmer,General Public,32.59,USA
+RESP_1457,13,Non-binary,Princess Luna,Casual Fan,4.0,Japan
+RESP_1093,27,NB,,Brony,143.09,United Kingdom
+RESP_1192,34,Male,Pinkie Pie,Child/Parent Collection,118.96,United States
+RESP_0905,25,Male,Pinkie Pie,General Public,34.87,UK
+RESP_0731,14,Prefer not to say,Twilight Sparkle,Casual Fan,59.72,Germany
+RESP_0555,17,Male,Big McIntosh,General Public,39.6,Canada
+RESP_0367,11,Female,Applejack,Child/Parent Collection,162.91,Germany
+RESP_0346,27,Prefer not to say,rainbow dash,Brony,225.53,Germany
+RESP_0536,10,Female,Applejack,Child/Parent Collection,40.51,United Kingdom
+RESP_1423,20,Female,Rarity,General Public,78.84,United States
+RESP_1210,12,female,Princess Celestia,Child/Parent Collection,191.59,
+RESP_1373,24,Non-binary,Derpy Hooves,Brony,498.66,UK
+RESP_0920,13,Male,Pinkie Pie,Casual Fan,15.99,USA
+RESP_0212,12,Non-binary,Spike,General Public,8.79,United Kingdom
+RESP_0503,,Prefer not to say,Princess Luna,Casual Fan,41.37,Australia
+RESP_0538,18,Male,Fluttershy,General Public,8.28,USA
+RESP_1221,,Non-binary,Rainbow Dash,Brony,131.64,Canada
+RESP_0176,19,Female,Rarity,General Public,43.81,Canada
