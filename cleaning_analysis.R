@@ -17,6 +17,13 @@ unique(DATA$Favorite_Pony)
 unique(DATA$Fan_Segment)
 unique(DATA$Country)
 
+# Find duplicates
+anyDuplicated(DATA)
+DATA[duplicated(DATA),] 
+
+# Remove duplicates
+DATA <- DATA %>% distinct()
+
 # Fix data types and levels
 DATA$Age <- as.integer(DATA$Age)
 class(DATA$Age)
@@ -88,13 +95,6 @@ DATA <- DATA %>%
     mean(Annual_Spend_USD, na.rm = TRUE)
   )) %>% 
   ungroup()
-
-# Find duplicates
-anyDuplicated(DATA)
-DATA[duplicated(DATA),] 
-
-# Remove duplicates
-DATA <- DATA %>% distinct()
 
 # View the cleaned data frame
 summary(DATA)
