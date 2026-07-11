@@ -1,9 +1,13 @@
 library(readr)
 library(tidyverse)
+library(scales)
 
 # Importing the dataset
 mlp_franchise_market_survey <- read_csv("mlp_franchise_market_survey.csv")
 View(mlp_franchise_market_survey)
+
+
+#---- DATA CLEANING ----
 
 # Assign to DATA where DATA is the cleaned data frame
 DATA <- mlp_franchise_market_survey
@@ -99,3 +103,51 @@ DATA <- DATA %>%
 # View the cleaned data frame
 summary(DATA)
 View(DATA)
+
+# Save the cleaned data as a new csv file
+write.csv(DATA, "cleaned_mlp_franchise_market_survey.csv", row.names = FALSE)
+
+
+#---- DATA ANALYSIS AND COMPUTATIONS ----
+
+# New data frame for gender count and frequency
+Gender_Data <- DATA %>% 
+  count(Gender) %>% 
+  rename(Count = n) %>% 
+  mutate(Percentage = (Count / sum(Count)) * 100) %>%
+  arrange(desc(Percentage))
+glimpse(Gender_Data)
+
+# New data frame for favorite pony count and percentage
+Pony_Data <- DATA %>% 
+  count(Favorite_Pony) %>% 
+  rename(Count = n) %>% 
+  mutate(Percentage = (Count / sum(Count)) * 100) %>%
+  arrange(desc(Percentage))
+glimpse(Pony_Data)
+
+# New data frame for having an age category column
+Age_Cat <- DATA %>% 
+  mutate(Age_Category = case_when(
+    Age <= 12 ~ "Child",
+    Age >= 13 & Age <= 19 ~ "Teenager",
+    Age >= 20 & Age <= 30 ~ "Young Adult",
+    Age > 30 ~ "Adult"
+  ))
+
+# New data frame for financial info by fan segment
+Financial_Summary <- DATA %>% 
+  group_by(Fan_Segment) %>% 
+  summarize(
+    Total_Count = n(),
+    Average_Spend = mean(Annual_Spend_USD),
+    Median_Spend = median(Annual_Spend_USD),
+    Standard_Dev = sd(Annual_Spend_USD)
+  )
+
+# ANOVA for financial info across segments
+Spending_ANOVA <- aov(Annual_Spend_USD ~ Fan_Segment, data = DATA)
+summary(Spending_ANOVA)
+
+# Testing difference using Tukey's Honest Significant Difference
+TukeyHSD(Spending_ANOVA)
