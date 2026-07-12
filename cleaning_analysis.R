@@ -1,6 +1,7 @@
 library(readr)
 library(tidyverse)
 library(scales)
+library(vcd)
 
 # Importing the dataset
 mlp_franchise_market_survey <- read_csv("mlp_franchise_market_survey.csv")
@@ -135,6 +136,28 @@ Age_Cat <- DATA %>%
     Age > 30 ~ "Adult"
   ))
 
+# Make the values to factor
+Age_Cat$Age_Category <- factor(Age_Cat$Age_Category,
+                               levels = c("Child", "Teenager", "Young Adult", "Adult"),
+                               ordered = TRUE)
+levels(Age_Cat$Age_Category)
+
+# Check if pony preference is independent of gender, age, and country
+# Gender
+chisq_gender <- chisq.test(Age_Cat$Favorite_Pony, Age_Cat$Gender)
+chisq_gender
+assocstats(table(Age_Cat$Favorite_Pony, Age_Cat$Gender))
+
+# Age Category
+chisq_age <- chisq.test(Age_Cat$Favorite_Pony, Age_Cat$Age_Category)
+chisq_age
+assocstats(table(Age_Cat$Favorite_Pony, Age_Cat$Age_Category))
+
+# Country
+chisq_country <- chisq.test(Age_Cat$Favorite_Pony, Age_Cat$Country)
+chisq_country
+assocstats(table(Age_Cat$Favorite_Pony, Age_Cat$Country))
+
 # New data frame for financial info by fan segment
 Financial_Summary <- DATA %>% 
   group_by(Fan_Segment) %>% 
@@ -151,3 +174,6 @@ summary(Spending_ANOVA)
 
 # Testing difference using Tukey's Honest Significant Difference
 TukeyHSD(Spending_ANOVA)
+
+
+#---- DATA VISUALIZATION ----
