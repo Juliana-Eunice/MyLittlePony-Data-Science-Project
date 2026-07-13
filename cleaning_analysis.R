@@ -141,6 +141,7 @@ Age_Cat$Age_Category <- factor(Age_Cat$Age_Category,
                                levels = c("Child", "Teenager", "Young Adult", "Adult"),
                                ordered = TRUE)
 levels(Age_Cat$Age_Category)
+Age_Cat
 
 # Check if pony preference is independent of gender, age, and country
 # Gender
@@ -167,6 +168,7 @@ Financial_Summary <- DATA %>%
     Median_Spend = median(Annual_Spend_USD),
     Standard_Dev = sd(Annual_Spend_USD)
   )
+Financial_Summary
 
 # ANOVA for financial info across segments
 Spending_ANOVA <- aov(Annual_Spend_USD ~ Fan_Segment, data = DATA)
@@ -175,5 +177,17 @@ summary(Spending_ANOVA)
 # Testing difference using Tukey's Honest Significant Difference
 TukeyHSD(Spending_ANOVA)
 
+# Creating a demographic profile per fan segment (typical fanbase)
+Market_Profiles <- Age_Cat %>% 
+  group_by(Fan_Segment) %>% 
+  summarize(
+    Total_Respondent = n(),
+    Average_Age = mean(Age),
+    Median_Age = median(Age),
+    Average_Spending = mean(Annual_Spend_USD),
+    Dominant_Gender = names(which.max(table(Gender))),
+    Top_Pony_Choice = names(which.max(table(Favorite_Pony)))
+  )
+Market_Profiles
 
 #---- DATA VISUALIZATION ----
