@@ -108,6 +108,7 @@ View(DATA)
 # Save the cleaned data as a new csv file
 write.csv(DATA, "cleaned_mlp_franchise_market_survey.csv", row.names = FALSE)
 
+
 #---- DATA ANALYSIS AND COMPUTATIONS ----
 
 # New data frame for gender count and frequency
