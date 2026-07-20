@@ -18,3 +18,22 @@ The project analyzes an simulated market survey dataset consisting of over 1,500
 1. Clone this repository into your local RStudio environment.
 2. Ensure you have the needed packages installed.
 3. Run the R script.
+
+## 📁 Concept Research Paper Structure
+1. **Introduction** - Traces the My Little Pony franchise from its 1981 origins through Generations 1–5
+2. **Problem Statement** - Frames the core business problem
+3. **Objectives** - States the general goal plus five specific objectives
+4. **Dataset Description** - Describes the simulated (Gemini AI-generated) dataset 
+5. **Methodology** - Outlines the overall R workflow
+6. **Data Cleaning Process** - Details the specific cleaning steps
+7. **Data Analysis and Computations** - Explains the statistical methods used
+8. **Visualizations** - Presents the ggplot2 charts
+9. **Findings and Insights** - Summarizes results
+10. **Conclusion** - Circles back to answering the problem statement and objectives
+11. **Recommendations** - Offers four actionable strategies for Hasbro
+12. **References** - Lists cited sorted in APA
+
+-----
+***Note**: I made this project for fun and learning as My Little Pony is one of my favorite childhood shows. I adore it and I wanted to gain more skills in data science and dealing with datasets. The paper was also quite unserious, with me even citing from Reddit!*
+
+*I loved every bit of this project and I hope whoever stumbles upon this gets fascinated as well! 💗*
